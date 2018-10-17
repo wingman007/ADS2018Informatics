@@ -1,0 +1,11 @@
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.deps.json
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.json
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.pdb
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.csprojAssemblyReference.cache
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfo.cs
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\fmi\borisov\ADS2018Informatics\SimeonBorisov_1601261102\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.pdb
