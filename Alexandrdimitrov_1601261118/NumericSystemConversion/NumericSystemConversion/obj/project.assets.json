@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\sanya\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sanya\\Downloads\\ADS2018Informatics-master\\AngelGeorgiev_1601261029\\NumericSystemConversion\\NumericSystemConversion\\NumericSystemConversion.csproj",
+      "projectName": "NumericSystemConversion",
+      "projectPath": "C:\\Users\\sanya\\Downloads\\ADS2018Informatics-master\\AngelGeorgiev_1601261029\\NumericSystemConversion\\NumericSystemConversion\\NumericSystemConversion.csproj",
+      "packagesPath": "C:\\Users\\sanya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanya\\Downloads\\ADS2018Informatics-master\\AngelGeorgiev_1601261029\\NumericSystemConversion\\NumericSystemConversion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {}
+    }
+  }
+}
