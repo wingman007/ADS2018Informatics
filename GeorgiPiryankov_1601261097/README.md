@@ -1,4 +1,1 @@
-# In this repo I have algorithms for
-
-* Algorithm 1
-* Algorithm 2
+#This is the folder of my projects. I recommend to use Visual Studio!
