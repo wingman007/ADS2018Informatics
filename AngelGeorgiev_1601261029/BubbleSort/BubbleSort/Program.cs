@@ -36,52 +36,5 @@ namespace BubbleSort
                 }
             }
         }
-
-        //static void MergeSort<T>(T[] arr)
-        //{
-        //    //MergeSort<T>(arr, 0, arr.Length - 1);
-        //}
-
-        //static void MergeSort<T>(T[] arr, int start, int end) where T : IComparable
-        //{
-
-        //    for (int i = start; i <= end; i++)
-        //    {
-        //        Console.Write(arr[i] + " ");
-        //    }
-        //    Console.WriteLine();
-
-        //    if (end == start)
-        //    {
-        //        return;
-        //    }
-        //    else if (end - start == 1)
-        //    {
-        //        int res = arr[start].CompareTo(arr[end]);
-        //        if (res == 1)
-        //        {
-        //            T temp = arr[start];
-        //            arr[start] = arr[end];
-        //            arr[end] = temp;
-        //        }
-        //    }
-        //    else
-        //    {
-        //        int middle = (end - start) / 2;
-        //        MergeSort(arr, start, middle - 1);
-        //        MergeSort(arr, middle, end);
-
-        //        int left = start;
-        //        int right = middle;
-        //        for (int i = start; i < end; i++) {
-        //            if (arr[left].CompareTo(arr[right]) == 1)
-        //            {
-        //                arr[i] = arr[left];
-        //            }
-        //            else {
-        //            }
-        //        }
-        //    }
-        //}
     }
 }
