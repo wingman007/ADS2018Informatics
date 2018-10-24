@@ -1,0 +1,4 @@
+﻿  Decimal-Binary.cpp
+c:\users\tedi\desktop\teodora dimitrova - 1601261007\ads2018informatics\teodoradimitrova_1601261007\decimal-binary\decimal-binary\decimal-binary.cpp(22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\tedi\desktop\teodora dimitrova - 1601261007\ads2018informatics\teodoradimitrova_1601261007\decimal-binary\decimal-binary\decimal-binary.cpp(35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Decimal-Binary.vcxproj -> C:\Users\Tedi\Desktop\Teodora Dimitrova - 1601261007\ADS2018Informatics\TeodoraDimitrova_1601261007\Decimal-Binary\Debug\Decimal-Binary.exe
