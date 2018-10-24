@@ -8,14 +8,14 @@ ___
 
 ### Open project
 
-1. `File` / `Open Projects from File System...` / `Directory`
+1. `File/Open Projects from File System.../Directory`
 2. Choose project base folder (e.x. BubbleSort folder) - only select it, don't enter it
 3. Select Folder
 4. Click Finish
 
 ### Start project
 
-1. Open Main.java file under `src` / `main` / `java` / `main`
+1. Open Main.java file under `src/main/java/main`
 2. Right click on `Main.java`
 3. Run As -> Java application
 
@@ -25,14 +25,14 @@ ___
 
 ### Open project
 
-1. `File` / `Open Project`
-2. Browse to the project folder, select it and click Open Project
+1. `File/Open Project`
+2. Browse to the project folder, select it and click `Open Project`
 
 ### Start project
 
-1. Open Projects window (Window/Projects)
+1. Open Projects window (`Window/Projects`)
 2. Right click on project -> Run
-3. Select Main class (if window appear)
+3. Select `Main` class (if window appear)
 
 ___
 
@@ -40,12 +40,12 @@ ___
 
 ### Open project
 
-1. `File` / `Open`
+1. `File/Open`
 2. Browse to the project folder, select it and click OK
 
 ### Start project
 
-1. Find Main class under `src` / `main` / `java` / `main` and open it
+1. Find Main class under `src/main/java/main` and open it
 2. Right click -> Run
 
 ___
