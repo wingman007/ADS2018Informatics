@@ -24,7 +24,6 @@ namespace BubbleSort
                 return;
             }
 
-            int upper = (int)Math.Ceiling(Math.Sqrt((double)arr.Length)) + 1;
             for (int i = 0; i < arr.Length - 1; i++) {
                 int j = i + 1;
                 while (j > 0 && arr[j - 1].CompareTo(arr[j]) == 1)
