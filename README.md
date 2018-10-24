@@ -20,11 +20,9 @@ ___
 
 ## Projects
 
-### Bubble Sort (C#)
-The project contains a basic implementation of the __bubble sort__ algorithm.
-
-In order to start it you should go to **_BubbleSort.sln_**. file and open it. 
-
+1. Number systems
+2. Bubble sort
+3. Insertion sort
 
 ___
 ## Reference
