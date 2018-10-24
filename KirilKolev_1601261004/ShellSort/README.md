@@ -1,1 +1,3 @@
-The ShellSort is writen in C#
+# Shell Sort
+
+ShellSort is writen in C#
