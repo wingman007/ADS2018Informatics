@@ -1,3 +1,2 @@
-
-Numeric System Conversion 
-	- A project for converting from any numeric system to decimal. Can be tweaked to do the opposite conversion.
+Десятична в двоична и обратно.
+За да работи конзолното приложение, необходима инсталирана Visual Studio

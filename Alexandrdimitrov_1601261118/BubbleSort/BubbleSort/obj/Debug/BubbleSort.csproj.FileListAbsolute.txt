@@ -5,3 +5,10 @@ C:\Users\sanya\Downloads\ADS2018Informatics-master\AngelGeorgiev_1601261029\Bubb
 C:\Users\sanya\Downloads\ADS2018Informatics-master\AngelGeorgiev_1601261029\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
 C:\Users\sanya\Downloads\ADS2018Informatics-master\AngelGeorgiev_1601261029\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
 C:\Users\sanya\Downloads\ADS2018Informatics-master\AngelGeorgiev_1601261029\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
