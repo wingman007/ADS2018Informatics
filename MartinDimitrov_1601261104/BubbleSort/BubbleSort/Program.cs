@@ -4,35 +4,38 @@ namespace BubbleSort
 {
     class Program
     {
+        //Bubble Sort with preset array, you can change the array entries from *
         static void Main(string[] args)
         {
-            int[] array = new int[] { 9, 42, 46, 14, 44, 5, 16, 2, 31, 27, 56, 56, 78, 1, 999, 1, 97 };
-            SortArray(array);
-            for (int i = 0; i < array.Length; i++)
-            {
-                Console.WriteLine(array[i]);
-            }
-        }
+            int[] array = { 9, 42, 46, 14, 44, 5, 16, 2, 31, 27, 56, 56, 78, 1, 999, 1, 97 }; //*here
 
-        static void SortArray(int[] array)
-        {
-            int temp; // darji stoinost za razmqnata
-            for (int i = 0; i < array.Length; i++)
+            int temp;
+
+            //display original array in console
+            Console.WriteLine("Original array: ");
+            foreach (int oArray in array)
+                Console.Write(oArray + " ");
+
+            //Sorting algorithm start
+            for (int p = 0; p <= array.Length - 2; p++)
             {
-                for (int j = i + 1; j < array.Length; j++)
+                for (int i = 0; i <= array.Length - 2; i++)
                 {
-                    if (array[j] < array[i]) //v momenta e vazhodqsh ako se smeni na > stava nizhodqsht
+                    if (array[i] > array[i + 1]) //change to < for descending
                     {
-                        temp = array[j];
-                        array[j] = array[i];
+                        temp = array[i + 1];
+                        array[i + 1] = array[i];
                         array[i] = temp;
-                    }
-                    else
-                    {
-                        continue;
                     }
                 }
             }
+            //end
+
+            //display sorted array in console
+            Console.WriteLine("\n" + "Sorted array: ");
+            foreach (int sArray in array)
+                Console.Write(sArray + " ");
+            Console.Write("\n");
         }
     }
 }
