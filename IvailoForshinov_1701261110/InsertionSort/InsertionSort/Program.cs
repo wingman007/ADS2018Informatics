@@ -12,7 +12,7 @@ namespace InsertionSort
         {
             int[] list = { 23, 44, 66, 76, 98, 11, 3, 9, 7 };
 
-            Console.Write("Initial list: ");
+            Console.WriteLine("Initial list: ");
             foreach (int i in list)
             {
                 Console.Write(i.ToString() + " ");
@@ -23,7 +23,7 @@ namespace InsertionSort
 
             InsertionSort(ref list);
 
-            Console.Write("Sorted list: ");
+            Console.WriteLine("Sorted list: ");
             foreach (int i in list)
             {
                 Console.Write(i.ToString() + " ");

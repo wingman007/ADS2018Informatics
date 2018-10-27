@@ -11,7 +11,7 @@ namespace BubbleSorting
         static void Main(string[] args)
         {
 
-            int[] arr = { 23, 44, 66, 76, 98, 11, 3, 9, 7 };
+            int[] arr = { 23, 44, 66, 76, 98, 11, 3, 9, 7};
             Console.WriteLine("Initial array: ");
             for (int i = 0; i < arr.Length; i++)
             {
@@ -20,7 +20,7 @@ namespace BubbleSorting
 
             Console.WriteLine();
             Console.WriteLine();
-            int temp;
+            int temp; //temporary variable
             for (int i = 0; i < arr.Length; i++)
             {
                 for (int j = 0; j < arr.Length; j++)
