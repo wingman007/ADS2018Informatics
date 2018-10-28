@@ -1,2 +1,3 @@
-# This is me repository on my Algorioths and Data Structuter.
-Inside you will find my projects!
+# This is a repository on my Algorithms and Data Structures.
+<hr>
+<u>Inside you will find my projects!</u>
