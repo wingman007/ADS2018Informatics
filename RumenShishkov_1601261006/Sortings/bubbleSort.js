@@ -17,5 +17,5 @@ function bubbleSort(array) {
   return tempArray;
 }
 
-var array = [51, 2, 62, 19, 1, 5, 7];
+const array = [51, 2, 62, 19, 1, 5, 7];
 console.log(bubbleSort(array));
