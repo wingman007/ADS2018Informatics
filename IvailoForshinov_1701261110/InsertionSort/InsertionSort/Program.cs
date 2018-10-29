@@ -10,41 +10,35 @@ namespace InsertionSort
     {
         static void Main(string[] args)
         {
-            int[] list = { 23, 44, 66, 76, 98, 11, 3, 9, 7 };
-
-            Console.WriteLine("Initial list: ");
-            foreach (int i in list)
+            int[] arr = { 23, 44, 66, 76, 98, 11, 3, 9, 7};
+            Console.WriteLine("Initial array: ");
+            for (int i = 0; i < arr.Length - 1; i++)
             {
-                Console.Write(i.ToString() + " ");
+                Console.Write(arr[i] + " ");
             }
-
             Console.WriteLine();
             Console.WriteLine();
 
-            InsertionSort(ref list);
-
-            Console.WriteLine("Sorted list: ");
-            foreach (int i in list)
+            for (int i = 1; i < arr.Length; i++)
             {
-                Console.Write(i.ToString() + " ");
-            }
-            Console.ReadLine();
-        }
-
-        public static void InsertionSort(ref int[] list)
-        {
-            for (int i = 1; i < list.Length; i++)
-            {
-                int intToEval = list[i];
-                int j = i;
-
-                while (j > 0 && intToEval < list[j - 1])
+                int inserValue = arr[i];
+                int inserIndex = i - 1;
+                while (inserIndex >= 0 && inserValue < arr[inserIndex])
                 {
-                    list[j] = list[j - 1];
-                    list[j - 1] = intToEval;
-                    j--;
+
+                    arr[inserIndex + 1] = arr[inserIndex];
+                    inserIndex--;
                 }
+                arr[inserIndex + 1] = inserValue;
             }
+
+            Console.WriteLine("Sorted array: ");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i] + " ");
+            }
+
+            Console.ReadKey();
         }
     }
 }

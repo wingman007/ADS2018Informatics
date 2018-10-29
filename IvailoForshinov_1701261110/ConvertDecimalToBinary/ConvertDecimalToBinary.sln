@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{D75BC589-CE19-4282-B45C-3C208BC7CAF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertDecimalToBinary", "ConvertDecimalToBinary\ConvertDecimalToBinary.csproj", "{5272B68E-F88E-49AD-86E1-D95A05C04FD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D75BC589-CE19-4282-B45C-3C208BC7CAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D75BC589-CE19-4282-B45C-3C208BC7CAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D75BC589-CE19-4282-B45C-3C208BC7CAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D75BC589-CE19-4282-B45C-3C208BC7CAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5272B68E-F88E-49AD-86E1-D95A05C04FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5272B68E-F88E-49AD-86E1-D95A05C04FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5272B68E-F88E-49AD-86E1-D95A05C04FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5272B68E-F88E-49AD-86E1-D95A05C04FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A633155A-2693-4018-961E-822DC47D3D1F}
+		SolutionGuid = {A890DB23-248F-42CD-A018-9D6DECAE4465}
 	EndGlobalSection
 EndGlobal
