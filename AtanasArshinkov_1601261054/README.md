@@ -28,6 +28,8 @@ ___
 2. Bubble sort
 3. Insertion sort
 4. Circular Linked List
+5. Search number in matrix
+6. Closest points
 
 ___
 
