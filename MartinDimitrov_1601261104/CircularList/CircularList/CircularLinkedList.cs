@@ -54,7 +54,7 @@ namespace Circular_Linked_List
         {
             int i, n, data;
 
-            Console.WriteLine("Enter the number of nodes: ");
+            Console.Write("Enter the number of nodes: ");
             n = Convert.ToInt32(Console.ReadLine());
 
             if (n == 0)
