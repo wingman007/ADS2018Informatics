@@ -1,21 +1,42 @@
 ﻿using System;
 using System.Threading;
 
-namespace QuickSort
+namespace SortingAlgorithms
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
 
-			int[] a = new int[1000];
+			int[] a = new int[10];
 			FillArray(a);
 			PrintArray(a);
 			Console.WriteLine();
-			QuickSort(a,0, a.Length-1);
+			//QuickSort(a,0, a.Length-1);
+			BubbleSort(a);
 			PrintArray(a);
 
 
+		}
+
+
+		static void BubbleSort(int[] a)
+		{
+			int length	= a.Length - 1;
+			//Console.WriteLine(a[length]);
+
+			for (int i = 0; i < length -1; i++)
+			{
+				for (int j = 0; j < length -i; j++)
+				{
+					if(a[j] > a[j+1])
+					{
+						int temp = a[j];
+						a[j] = a[j+1];
+						a[j+1] = temp;
+					}
+				}
+			}
 		}
 
 		static void QuickSort(int[] a, int start, int end)
@@ -59,7 +80,7 @@ namespace QuickSort
 			Random rand = new Random();
 			for (int i = 0; i < a.Length; i++)
 			{
-				a[i] = rand.Next(1000);
+				a[i] = rand.Next(20);
 			}
 		}
 
