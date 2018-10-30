@@ -1,4 +1,4 @@
-This is a bubble sort in C#.
+This is a Insertino sort in C#.
 Project for sorting sort array.
 
 Тo open this program, you need to have a Visual Studio installed;
