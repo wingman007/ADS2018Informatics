@@ -5,6 +5,9 @@ class ReverseQueue
 {
     static void printQueue(Queue<long> queue)
     {
+        Console.WriteLine("Input Q :");
+        Console.WriteLine("1 5 10 45 85 92 58 80 90 100");
+        Console.WriteLine("Output Q :");
         while (queue.Count != 0)
         {
             Console.Write(queue.Peek() + " ");
