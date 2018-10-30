@@ -1,5 +1,5 @@
 This is a Insertino sort in C#.
-Project for sorting sort array.
+Project for sorting array.
 
 Тo open this program, you need to have a Visual Studio installed;
 Open Visual Studio;
