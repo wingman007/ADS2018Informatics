@@ -1,8 +1,8 @@
-#### DecimalToBinary 
+## DecimalToBinary 
 
 *This project will show you how to convert from decimal to binary.*
 
-##Tools Used
+#### Tools Used
 
 *Visual Studio 2013*
 
