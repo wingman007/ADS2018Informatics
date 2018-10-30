@@ -1,0 +1,11 @@
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\bin\Debug\netcoreapp2.1\MatrixDoubleSort.deps.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\bin\Debug\netcoreapp2.1\MatrixDoubleSort.runtimeconfig.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\bin\Debug\netcoreapp2.1\MatrixDoubleSort.runtimeconfig.dev.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\bin\Debug\netcoreapp2.1\MatrixDoubleSort.dll
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\bin\Debug\netcoreapp2.1\MatrixDoubleSort.pdb
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\obj\Debug\netcoreapp2.1\MatrixDoubleSort.csprojAssemblyReference.cache
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\obj\Debug\netcoreapp2.1\MatrixDoubleSort.csproj.CoreCompileInputs.cache
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\obj\Debug\netcoreapp2.1\MatrixDoubleSort.AssemblyInfoInputs.cache
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\obj\Debug\netcoreapp2.1\MatrixDoubleSort.AssemblyInfo.cs
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\obj\Debug\netcoreapp2.1\MatrixDoubleSort.dll
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\MatrixDoubleSort\MatrixDoubleSort\obj\Debug\netcoreapp2.1\MatrixDoubleSort.pdb
