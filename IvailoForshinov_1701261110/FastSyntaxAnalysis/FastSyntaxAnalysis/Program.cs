@@ -19,6 +19,8 @@ namespace FastSyntaxAnalysis
                     case '(':
                     case '{':
                     case '[':
+                    case '/':
+                    case '*':
                         stack.Push(ch);
                         break;
                     case ')':
@@ -35,6 +37,18 @@ namespace FastSyntaxAnalysis
                         break;
                     case ']':
                         if (!stack.Any() || stack.Pop() != '[')
+                        {
+                            isBalanced = false;
+                        }
+                        break;
+                    case '/':
+                        if (!stack.Any() || stack.Pop() != '/')
+                        {
+                            isBalanced = false;
+                        }
+                        break;
+                    case '*':
+                        if (!stack.Any() || stack.Pop() != '*')
                         {
                             isBalanced = false;
                         }
