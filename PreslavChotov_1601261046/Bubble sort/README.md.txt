@@ -1,0 +1,1 @@
+It's bubble sort algorithm,which sorts the numbers from lowest to highest.It's one of the slowest algorithms to sort with
