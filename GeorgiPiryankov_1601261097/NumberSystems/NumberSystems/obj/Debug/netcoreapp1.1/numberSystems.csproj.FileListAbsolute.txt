@@ -1,0 +1,10 @@
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\bin\Debug\netcoreapp1.1\numberSystems.deps.json
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\bin\Debug\netcoreapp1.1\numberSystems.runtimeconfig.json
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\bin\Debug\netcoreapp1.1\numberSystems.runtimeconfig.dev.json
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\bin\Debug\netcoreapp1.1\numberSystems.dll
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\bin\Debug\netcoreapp1.1\numberSystems.pdb
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\obj\Debug\netcoreapp1.1\numberSystems.csprojAssemblyReference.cache
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\obj\Debug\netcoreapp1.1\numberSystems.csproj.CoreCompileInputs.cache
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\obj\Debug\netcoreapp1.1\numberSystems.AssemblyInfo.cs
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\obj\Debug\netcoreapp1.1\numberSystems.dll
+D:\GEORGI JUNIOR\00Cheresharov\ADS2018Informatics\GeorgiPiryankov_1601261097\NumberSystems\numberSystems\numberSystems\obj\Debug\netcoreapp1.1\numberSystems.pdb
