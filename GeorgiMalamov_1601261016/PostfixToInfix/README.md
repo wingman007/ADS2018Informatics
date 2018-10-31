@@ -4,7 +4,7 @@ This is a simple program for converting Postfix , better knows as RPN(Reverse Po
 
 ## Example
 
-	Code in Infix : **(a - (b * c))**
-	Code in Postfix : **abc*-**
+	Code in Infix : (a - (b * c))
+	Code in Postfix : abc*-
 
 ###For the full converter you can check [here!](https://github.com/yazdipour/Infix-Prefix-Postfix-Converter)
