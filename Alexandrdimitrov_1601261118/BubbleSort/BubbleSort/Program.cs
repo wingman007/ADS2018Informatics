@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BubbleSort
 {
@@ -10,29 +6,26 @@ namespace BubbleSort
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[] { 4, 999, 1, 22, 4, 2, 120, 3213, 35, 23, 24 };
+            int[] arr = { 15, 40, 5, 1, 86, 53, 120, 166, 35, 20, 100, 200 };
 
-            BubbleSort<int>(arr);
+            int temp = 0;
 
-            for (int i = 0; i < arr.Length; i++) {
-                Console.Write(arr[i] + " ");
-            }
-        }
-
-        static void BubbleSort<T>(T[] arr) where T : IComparable {
-            if (arr.Length == 1) {
-                return;
-            }
-
-            for (int i = 0; i < arr.Length - 1; i++) {
-                int j = i + 1;
-                while (j > 0 && arr[j - 1].CompareTo(arr[j]) == 1)
+            for ( int write = 0; write < arr.Length; write++ )
+            {
+                for ( int sort = 0; sort < arr.Length - 1; sort++ )
                 {
-                    T temp = arr[j];
-                    arr[j] = arr[j - 1];
-                    arr[j - 1] = temp;
-                    j--;
+                    if ( arr[sort] > arr[sort + 1] )
+                    {
+                        temp            =   arr[sort + 1];
+                        arr[sort + 1]   =   arr[sort];
+                        arr[sort]       =   temp;
+                    }
                 }
+            }
+
+            for ( int i = 0; i < arr.Length; i++ )
+            {
+                Console.Write( arr[i] + " " );
             }
         }
     }
