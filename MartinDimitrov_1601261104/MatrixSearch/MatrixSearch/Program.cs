@@ -28,7 +28,7 @@ namespace MatrixSearch
         static string input;
         public static void Main(string[] args)
         {
-            int[,] matrix = new int[5, 5] //you change change 2d array size and input from here(if you do so you'll have to change numbers on line 50)
+            int[,] matrix = new int[5, 5] //you change change 2d array size and input from here(if you do so you'll have to change numbers on line 55)
                 {
                     {1,2,3,4,5 },
                     {6,7,8,9,10 },
