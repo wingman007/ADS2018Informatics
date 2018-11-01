@@ -1,36 +1,29 @@
 ﻿using System;
 
-namespace MergeSort
-{
-    class Program
-    {
+namespace MergeSort {
+    class Program {
 
         static void Main(string[] args) {
 
-            int[] arr = new int[] { 4, 999, 1, 22, 4, 2, 120, 3213, 35, 23, 24 };
+            int[] arr = new int[] { 3133, 8, 56, 7, 422, 2, 6, 1, 9921, 23, 1 };
 
             MergeSort<int>(arr);
 
+            Console.Write("Sorted Array : ");
             for (int i = 0; i < arr.Length; i++) {
                 Console.Write(arr[i] + " ");
             }
+            Console.WriteLine();
         }
 
         static void MergeSort<T>(T[] arr) where T : IComparable {
-            MergeSort(arr, 0, arr.Length / 2, arr.Length - 1);
+            MergeSort(arr, 0, arr.Length / 2, arr.Length);
         }
 
         static void MergeSort<T>(T[] arr, int left, int mid, int right) where T : IComparable {
-            Console.Write(left + " " + mid + " " + right + " ----- ");
-            for (int i = left; i < right; i++) {
-                Console.Write(arr[i] + " ");
-            }
-            Console.WriteLine();
-
-            if (right - left > 2)
-            {
+            if (right - left > 2) {
                 MergeSort(arr, left, left + (mid - left) / 2, mid);
-                MergeSort(arr, mid, mid + (right - mid) / 2, right);
+                MergeSort(arr, mid, mid + (right - mid + 1) / 2, right);
             }
 
             Combine(arr, left, mid, right);
@@ -48,7 +41,7 @@ namespace MergeSort
             int counter = 0;
 
             while (leftIn < mid || rightIn < right) {
-                if (leftIn < mid && arr[leftIn].CompareTo(arr[rightIn]) == -1) {
+                if (leftIn < mid && ((rightIn >= right) || arr[leftIn].CompareTo(arr[rightIn]) == -1)) {
                     temp[counter] = arr[leftIn];
                     leftIn++;
                 }
