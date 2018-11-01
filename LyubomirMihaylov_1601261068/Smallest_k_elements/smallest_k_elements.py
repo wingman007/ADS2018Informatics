@@ -80,7 +80,7 @@ class Prioritized_Queue:
 Stoqn = Queue_Element("Stqon", 2)                  
 Dimitar = Queue_Element("Dimitar", 5)
 Aleks = Queue_Element("Aleks", 11)
-Stanimir = Queue_Element('Stan', 2)
+Stanimir = Queue_Element('Stan', 3)
 
 # Example that the queue is working.
 new_queue = Prioritized_Queue()                    
