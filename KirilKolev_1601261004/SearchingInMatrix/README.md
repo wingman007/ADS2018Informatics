@@ -16,5 +16,7 @@ The Community version if free.
 ## Details
 
 The program is writen in C# programming language.
+
 You can choose rows and columns for the matrix.
+
 Example: 3 x 3, 3 x 9, 10 x 10, 15 x 25 etc.
