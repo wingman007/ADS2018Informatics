@@ -14,6 +14,7 @@ Here is an online compiler where you can run the program: https://rextester.com/
 
 Just copy the code and paste it in the compiler:
 
+```
 <?php
 function getMax( $array )
 {
@@ -92,3 +93,4 @@ for( $i = 0; $i < 5; $i++ )
 
 echo( "\nPyramid \n" );
 numpat( $array );
+```
