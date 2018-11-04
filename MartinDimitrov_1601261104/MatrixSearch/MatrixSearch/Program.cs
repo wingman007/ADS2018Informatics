@@ -1,71 +1,80 @@
 ﻿using System;
-using System.Text;
 
 namespace MatrixSearch
 {
     class Program
     {
-        //saddleback search
-        static bool search(int[,] matrix, int row,
-                    int col, int x)
-        {
-            /* 
-             set indexes for 
-             bottom left element 
-             */
-            int i = row - 1, j = 0;
-            while (i >= 0 && j < col)
-            {
-                if (matrix[i, j] == x)
-                    return true;
-                if (matrix[i, j] > x)
-                    i--;
-                else // if matrix[i][j] < x 
-                    j++;
-            }
-            return false;
-        }
+        public static int row;
+        public static int col;
+        public static int[,] matrix;
         static string input;
+
+        private static void Load(string rows, string columns)
+        {
+            try
+            {
+                row = Int32.Parse(rows);
+                col = Int32.Parse(columns);
+
+                Random rnd = new Random();
+                matrix = new int[row, col];
+
+                for (int i = 0; i < row; i++)
+                {
+                    for (int j = 0; j < col; j++)
+                    {
+                        matrix[i, j] = rnd.Next(0, 100);
+                        Console.Write(String.Format("{0}\t", matrix[i, j]));
+                    }
+                    Console.WriteLine(" ");
+                }
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Something went wrong!");
+            }
+        }
+
+        private static void Search(string number)
+        {
+            try
+            {
+                for (int i = 0; i < row; i++)
+                {
+                    for (int j = 0; j < col; j++)
+                    {
+                        if (Int32.Parse(number) == matrix[i, j])
+                        {
+                            Console.WriteLine("Element {0} found at location ({1}) ({2})\n", number, i + 1, j + 1);
+                        }
+                    }
+                }
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Something went wrong!");
+            }
+        }
+
         public static void Main(string[] args)
         {
-            int[,] matrix = new int[5, 5] //you change change 2d array size and input from here(if you do so you'll have to change numbers on line 50)
-                {
-                    {1,2,3,4,5 },
-                    {6,7,8,9,10 },
-                    {11,12,13,14,15 },
-                    {16,17,18,19,20 },
-                    {21,22,23,24,25 }
-                };
-            Console.WriteLine("------------------------------------");
-            var rowCount = matrix.GetLength(0);
-            var colCount = matrix.GetLength(1);
-            for (int row = 0; row < rowCount; row++)
-            {
-                for (int col = 0; col < colCount; col++)
-                    Console.Write(String.Format("{0}\t", matrix[row, col]));
-                Console.WriteLine();
-            }
-            Console.WriteLine("------------------------------------");
-
             do
-             { 
-             Console.Write("Enter Search element: ");
-             string s = Console.ReadLine();
-             int x = Int32.Parse(s);
-                if (search(matrix, 5, 5, x))
-                {
-                    Console.Write("Element found \n");
-                    Console.Write("Continue? (to stop type NO!)");
-                    input = Console.ReadLine();
-                }
-                else
-                {
-                    Console.Write("Not found \n");
-                    Console.Write("Continue? (to stop type NO!)");
-                    input = Console.ReadLine();
-                }
-             }
-             while (input != "NO!");
+            {
+                Console.Write("Enter number of rows: ");
+                string rows = Console.ReadLine();
+                Console.Write("Enter number of columns: ");
+                string columns = Console.ReadLine();
+                Console.WriteLine(" ");
+                Load(rows, columns);
+                Console.WriteLine(" ");
+                Console.Write("Enter search number: ");
+                string number = Console.ReadLine();
+                Search(number);
+                Console.WriteLine("Create a new random 2d array and continue? (to stop type NO!)");
+                input = Console.ReadLine();
+
+            }
+            while (input != "NO!");
         }
     }
 }
