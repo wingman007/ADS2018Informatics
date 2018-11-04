@@ -1,4 +1,4 @@
-# Simple Program for finding an element in a 2d array using C# (console app; preset values)
+# Simple Program for finding an element in a 2d array using C# (console app; random values)
 -------------------------------------------------------------------------------
 ## You need MS Visual Studio to build and run this project!
 -------------------------------------------------------------------------------
