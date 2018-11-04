@@ -1,0 +1,11 @@
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.deps.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.runtimeconfig.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.runtimeconfig.dev.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.pdb
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.csprojAssemblyReference.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.AssemblyInfo.cs
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MinimumNumberOfSwaps\SelectionSort\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.pdb

@@ -1,0 +1,1 @@
+THIS PROJECT CONTAINS THE SELECTION SORT (Guaranteed minimum number of swaps in a worst case scenario!)
