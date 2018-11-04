@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+using System;
+>>>>>>> 1d16b91357a5ad5e4181c8ad6401677204dbd8ba
 
 namespace MatrixSearch
 {
