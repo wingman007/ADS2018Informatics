@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1881715,
+    "Username": "nvidia1997",
+    "Name": "Румен Шишков",
+    "Email": "nvidia1997@gmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/12d2d98590f01c67ae53304a8739f092?s=80&d=identicon",
+    "PrivateToken": "265bdd894a3c37b8456d8c7c788cb3c80a1df1a87eef9582a7c5fbddb033d62a",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
