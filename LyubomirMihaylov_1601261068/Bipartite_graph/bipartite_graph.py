@@ -55,7 +55,6 @@ class Graph:
         print('Set A contains: ' + str(red_list))
         print('Set B contains: ' + str(blue_list))    
             
-    # If not there is no root node, make this one root.
     def add(self, node):
         self.node_list.append(node)
         
@@ -83,8 +82,10 @@ new_graph.add(node_4)
 new_graph.add(node_5)
 
 new_graph.color_graph(set_A, set_B)
+
 # Show bipartite
 new_graph.is_bipartite()
+
 # Show not-bipartite ( Wrong connections between node with value 3 and node with value 5 ).
 node_1.make_connections([node_2, node_3])
 new_graph.is_bipartite()
