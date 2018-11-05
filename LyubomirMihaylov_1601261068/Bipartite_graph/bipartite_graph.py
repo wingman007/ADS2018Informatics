@@ -1,7 +1,5 @@
-
 '''
 Example graph:
-
         3
        /
       /
@@ -13,48 +11,80 @@ Example graph:
      /
     /
    6 -- 7
-
    Divide the graph into two sets: A = { 2, 6 }, B = { 3, 5, 7 }.
    There are no arcs between two nodes from the same set, therefore the graph is bipartite.
 '''
-
-# Depth-First-Search modification:
-def dfs_recursive(graph, vertex, path=[]):
-    # Every iterated node.
-    path += [vertex]
-
-    flag = True
-    for neighbor in graph[vertex]:
-        # If there is a wrong connection in one of the nodes, switch the flag to False.
-        for key, value in graph.items():
-            if key is 2 and 6 in value:
-                    flag = False
-            elif key is 6 and 2 in value:
-                    flag = False
-            elif key is 3 and (5 in value or 7 in value):
-                    flag = False
-            elif key is 5 and (3 in value or 7 in value):
-                    flag = False
-            elif key is 7 and (5 in value or 3 in value):
-                    flag = False
-        if neighbor in path:
-            break
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.color = None
+        self.conn_list = []
+        
+    def make_connections(self, connections):
+        if not isinstance(connections, list):
+            self.conn_list.append(connections)
         else:
-            path = dfs_recursive(graph, neighbor, path)
-    if flag:
-        return 'The graph is bipartite'
-    else:
-        return 'The graph is not bipartite'
+            self.conn_list = connections
 
-# Simpler representation of the nodes and their connection.
-adjacency_matrix = {2: [3, 5],
-                    3: [2], 5: [2, 6],
-                    6: [5, 7], 7: [6]}
+class Graph:
+    def __init__(self):
+        self.node_list = []
 
-# Same graph with connections that make it not bipartite:
-adjacency_matrix_2 = {2: [3, 5, 6],
-                    3: [2], 5: [2, 6],
-                    6: [5, 7], 7: [6, 5]}
+    def is_bipartite(self):
+        # Traverse the graph.
+        for n in self.node_list:
+            # Traverse every node's conections.
+            for x in n.conn_list:
+                if x.color == n.color:
+                    print('The graph is not bipartite!')
+                    return False
+        print('The graph is bipartite!')
+        return True
 
-print(dfs_recursive(adjacency_matrix, 3))
-print(dfs_recursive(adjacency_matrix_2, 3))
+    def color_graph(self, set_A, set_B):
+        red_list = []
+        blue_list = []
+        for x in self.node_list:
+            if x.data in set_A:
+                x.color = 'red'
+                red_list.append(x.data)
+            elif x.data in set_B:
+                x.color = 'blue'
+                blue_list.append(x.data)
+                
+        print('Set A contains: ' + str(red_list))
+        print('Set B contains: ' + str(blue_list))    
+            
+    # If not there is no root node, make this one root.
+    def add(self, node):
+        self.node_list.append(node)
+        
+set_A = [ 2, 6 ]
+set_B = [ 3, 5, 7 ]
+
+new_graph = Graph()
+node_1 = Node(3)
+node_2 = Node(2)
+node_3 = Node(5)
+node_4 = Node(6)
+node_5 = Node(7)
+
+# Create connections
+node_1.make_connections([node_2])
+node_2.make_connections([node_1, node_3])
+node_3.make_connections([node_2, node_4])
+node_4.make_connections([node_3, node_5])
+node_5.make_connections([node_4])
+
+new_graph.add(node_1)
+new_graph.add(node_2)
+new_graph.add(node_3)
+new_graph.add(node_4)
+new_graph.add(node_5)
+
+new_graph.color_graph(set_A, set_B)
+# Show bipartite
+new_graph.is_bipartite()
+# Show not-bipartite ( Wrong connections between node with value 3 and node with value 5 ).
+node_1.make_connections([node_2, node_3])
+new_graph.is_bipartite()
