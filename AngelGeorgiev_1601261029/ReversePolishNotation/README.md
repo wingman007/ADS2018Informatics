@@ -1,0 +1,1 @@
+This is a Reverse Polish Notation calculator implemented in C# using a stack.
