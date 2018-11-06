@@ -14,4 +14,4 @@ from where you can download the book: http://www.programirane.org/download-now/ 
 	2. Go to: https://rextester.com/l/java_online_compiler
 	3. Paste it there and click 'execute'.
   
-####Credits: https://en.wikipedia.org/wiki/Knapsack_problem
+#### Credits: https://en.wikipedia.org/wiki/Knapsack_problem
