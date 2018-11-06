@@ -1,0 +1,3 @@
+﻿  BiToDec.cpp
+d:\chwork\hristobratsov\ads2018informatics\hristobratsov_1601261047\decimaltobinary\decimaltobinary\bitodec.cpp(13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  DecimalToBinary.vcxproj -> D:\ChWork\HristoBratsov\ADS2018Informatics\HristoBratsov_1601261047\DecimalToBinary\Debug\DecimalToBinary.exe
