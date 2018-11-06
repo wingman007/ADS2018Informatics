@@ -1,0 +1,7 @@
+E:\Homework !\Decimal to Binary  and Back\decimaltobinaryandback\decimaltobinaryandback\bin\Debug\decimaltobinaryandback.exe.config
+E:\Homework !\Decimal to Binary  and Back\decimaltobinaryandback\decimaltobinaryandback\bin\Debug\decimaltobinaryandback.exe
+E:\Homework !\Decimal to Binary  and Back\decimaltobinaryandback\decimaltobinaryandback\bin\Debug\decimaltobinaryandback.pdb
+E:\Homework !\Decimal to Binary  and Back\decimaltobinaryandback\decimaltobinaryandback\obj\Debug\decimaltobinaryandback.csprojAssemblyReference.cache
+E:\Homework !\Decimal to Binary  and Back\decimaltobinaryandback\decimaltobinaryandback\obj\Debug\decimaltobinaryandback.csproj.CoreCompileInputs.cache
+E:\Homework !\Decimal to Binary  and Back\decimaltobinaryandback\decimaltobinaryandback\obj\Debug\decimaltobinaryandback.exe
+E:\Homework !\Decimal to Binary  and Back\decimaltobinaryandback\decimaltobinaryandback\obj\Debug\decimaltobinaryandback.pdb
