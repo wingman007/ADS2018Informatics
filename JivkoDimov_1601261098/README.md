@@ -14,5 +14,8 @@
 ## ShellSort / Алгоритъм на Шел
 ### The method starts by sorting pairs of elements far apart from each other then progressively reducing the gap between elements to be compared. / Методът започва чрез сортиране на двойки елементи които са далеч една от друга а след това постепенно намалява празнината между елементите които трябва да бъдат сравнени.
 
-## ReverseQueue / Обратна опашка
-### Output queue is the reverse of the input queue. / Опашката на изхода е обратната страна на опашката за въвеждане.
+## TeamQueue / Отборна опашка
+### When a new item joins the queue it first searches for its own acquaintances in it and if it finds it right after them then they create a team queue. If he does not find the new element he's finally in the queue. / Когато нов елемент се присъединява към опашката той първо претърсва за свои познати в нея и ако намери се включва точно след тях тогава те отбразуват отборна опашка. Ако не намери новият елемент застава накрая на опашката.
+
+## RadiusOfAchievability / Радиус на достижимост
+### An algorithm that implements a feature to find all the elements. / Алгоритъм който реализира функция за намиране на всички елементи.
