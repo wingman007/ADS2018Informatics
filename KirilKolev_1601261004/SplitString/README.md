@@ -10,7 +10,7 @@ Task number is 8.114, on page 568.
 
 The program is writen in PHP programming language.
 
-Here is an online compiler where you can run the program: https://www.tutorialspoint.com/execute_php_online.php
+Here is an online compiler where you can run the program: https://rextester.com/l/php_online_compiler
 
 Just copy the code and paste it in the compiler:
 ```
