@@ -1,9 +1,9 @@
-Persistent sorting methods are preferred when the elements of the set are already sorted according to some other criterion. For example, let us sort our file system by name and extension: files are named by name, like those with the same name ranks by extension. This can be done in two steps:
+п»їPersistent sorting methods are preferred when the elements of the set are already sorted according to some other criterion. For example, let us sort our file system by name and extension: files are named by name, like those with the same name ranks by extension. This can be done in two steps:
 1) sort by extension
 2) sort by name
 While in the first sorting (by extension) algorithm stability is irrelevant in re-sorting (by name) the use of a sustainable method will already be mandatory.
 
-Устойчивите методи на сортиране се предпочитат тогава когато елементите на множеството вече са сортирани съгласно някакъв друг критерий. Например нека искаме да сортираме файловата си система по име и по разширение: файловете се нареждат по име като тези с еднакво име се нареждат по разширение. Това може да стане на две стъпки: 
-1) сортиране по разширение 
-2) сортиране по име
-Докато при първото сортиране (по разширение) устойчивостта на алгоритъма е без значение при повторното сортиране (по име) използването на устойчив метод вече ще бъде задължително.
+РЈСЃС‚РѕР№С‡РёРІРёС‚Рµ РјРµС‚РѕРґРё РЅР° СЃРѕСЂС‚РёСЂР°РЅРµ СЃРµ РїСЂРµРґРїРѕС‡РёС‚Р°С‚ С‚РѕРіР°РІР° РєРѕРіР°С‚Рѕ РµР»РµРјРµРЅС‚РёС‚Рµ РЅР° РјРЅРѕР¶РµСЃС‚РІРѕС‚Рѕ РІРµС‡Рµ СЃР° СЃРѕСЂС‚РёСЂР°РЅРё СЃСЉРіР»Р°СЃРЅРѕ РЅСЏРєР°РєСЉРІ РґСЂСѓРі РєСЂРёС‚РµСЂРёР№. РќР°РїСЂРёРјРµСЂ РЅРµРєР° РёСЃРєР°РјРµ РґР° СЃРѕСЂС‚РёСЂР°РјРµ С„Р°Р№Р»РѕРІР°С‚Р° СЃРё СЃРёСЃС‚РµРјР° РїРѕ РёРјРµ Рё РїРѕ СЂР°Р·С€РёСЂРµРЅРёРµ: С„Р°Р№Р»РѕРІРµС‚Рµ СЃРµ РЅР°СЂРµР¶РґР°С‚ РїРѕ РёРјРµ РєР°С‚Рѕ С‚РµР·Рё СЃ РµРґРЅР°РєРІРѕ РёРјРµ СЃРµ РЅР°СЂРµР¶РґР°С‚ РїРѕ СЂР°Р·С€РёСЂРµРЅРёРµ. РўРѕРІР° РјРѕР¶Рµ РґР° СЃС‚Р°РЅРµ РЅР° РґРІРµ СЃС‚СЉРїРєРё: 
+1) СЃРѕСЂС‚РёСЂР°РЅРµ РїРѕ СЂР°Р·С€РёСЂРµРЅРёРµ 
+2) СЃРѕСЂС‚РёСЂР°РЅРµ РїРѕ РёРјРµ
+Р”РѕРєР°С‚Рѕ РїСЂРё РїСЉСЂРІРѕС‚Рѕ СЃРѕСЂС‚РёСЂР°РЅРµ (РїРѕ СЂР°Р·С€РёСЂРµРЅРёРµ) СѓСЃС‚РѕР№С‡РёРІРѕСЃС‚С‚Р° РЅР° Р°Р»РіРѕСЂРёС‚СЉРјР° Рµ Р±РµР· Р·РЅР°С‡РµРЅРёРµ РїСЂРё РїРѕРІС‚РѕСЂРЅРѕС‚Рѕ СЃРѕСЂС‚РёСЂР°РЅРµ (РїРѕ РёРјРµ) РёР·РїРѕР»Р·РІР°РЅРµС‚Рѕ РЅР° СѓСЃС‚РѕР№С‡РёРІ РјРµС‚РѕРґ РІРµС‡Рµ С‰Рµ Р±СЉРґРµ Р·Р°РґСЉР»Р¶РёС‚РµР»РЅРѕ.
