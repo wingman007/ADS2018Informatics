@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\zadacha3.2\zadacha3.2\bin\Debug\zadacha3.2.exe.config
+C:\Users\Georgi\Desktop\C#\zadacha3.2\zadacha3.2\bin\Debug\zadacha3.2.exe
+C:\Users\Georgi\Desktop\C#\zadacha3.2\zadacha3.2\bin\Debug\zadacha3.2.pdb
+C:\Users\Georgi\Desktop\C#\zadacha3.2\zadacha3.2\obj\Debug\zadacha3.2.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\zadacha3.2\zadacha3.2\obj\Debug\zadacha3.2.exe
+C:\Users\Georgi\Desktop\C#\zadacha3.2\zadacha3.2\obj\Debug\zadacha3.2.pdb
