@@ -1,0 +1,10 @@
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\bin\Debug\netcoreapp2.0\minimalNumberOfChanges.deps.json
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\bin\Debug\netcoreapp2.0\minimalNumberOfChanges.runtimeconfig.json
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\bin\Debug\netcoreapp2.0\minimalNumberOfChanges.runtimeconfig.dev.json
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\bin\Debug\netcoreapp2.0\minimalNumberOfChanges.dll
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\bin\Debug\netcoreapp2.0\minimalNumberOfChanges.pdb
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\obj\Debug\netcoreapp2.0\minimalNumberOfChanges.csproj.CoreCompileInputs.cache
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\obj\Debug\netcoreapp2.0\minimalNumberOfChanges.AssemblyInfoInputs.cache
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\obj\Debug\netcoreapp2.0\minimalNumberOfChanges.AssemblyInfo.cs
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\obj\Debug\netcoreapp2.0\minimalNumberOfChanges.dll
+D:\SS\gp\minimalNumberOfChanges\minimalNumberOfChanges\obj\Debug\netcoreapp2.0\minimalNumberOfChanges.pdb
