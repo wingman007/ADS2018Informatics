@@ -5,11 +5,11 @@ import urllib2
 
 string = raw_input("Ask user for something:")
 #you can modify this string below. This is just an example i wanted to show.
-searc_string = (
+search_string = (
     " I'm me and you are you, this is a string and we have to do a search for this."
 )
 
-if string in searc_string:
+if string in search_string:
 	print "\033[44;33m %s \033[m" % string
 else:
 	print "The string you searched for couldn't be found."
@@ -25,3 +25,10 @@ if string in text:
 	print "\033[44;33m %s \033[m" % string
 else:
 	print "The string you searched for couldn't be found."
+
+#this is a function for searching a string 
+def search_for_string(value, text):
+	if value in text:
+		return "\033[44;33m %s \033[m" % value
+
+print search_for_string(string, search_string)
