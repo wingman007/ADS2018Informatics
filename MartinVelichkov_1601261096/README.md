@@ -16,6 +16,15 @@ Project that implements the insertion sort algorithm
 
 Project for converting decimal numbers to binary and binary to decimal
 
+## AllElementsByKey
+
+Project for Searching all elements by key
+
+## SearchByKey
+
+This program is for searching one element by key
+
+
 
 
 
