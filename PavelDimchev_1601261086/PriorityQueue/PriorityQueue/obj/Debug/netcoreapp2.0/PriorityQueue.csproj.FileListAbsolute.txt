@@ -1,0 +1,4 @@
+C:\Users\fmi\ADS2018Informatics\PavelDimchev_1601261086\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.csprojAssemblyReference.cache
+C:\Users\fmi\ADS2018Informatics\PavelDimchev_1601261086\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\fmi\ADS2018Informatics\PavelDimchev_1601261086\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\fmi\ADS2018Informatics\PavelDimchev_1601261086\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.AssemblyInfo.cs
