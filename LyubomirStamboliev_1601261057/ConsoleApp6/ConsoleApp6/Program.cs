@@ -1,45 +1,47 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Priority_Queue_Example;
+﻿
+using System;
 
-namespace Priority_Queue_Example
+namespace CharSequenceFinder
 {
-    public static class SimplePriorityQueueExample
+    public class Program
     {
-        public static void RunExample()
+        public static void Main(string[] args)
         {
-            //First, we create the priority queue.
-            SimplePriorityQueue<string> priorityQueue = new SimplePriorityQueue<string>();
+          
+            var array = new[] { 'a', 'b', 'c', 'd', 'e' };
 
-            //Now, let's add them all to the queue (in some arbitrary order)!
-            priorityQueue.Enqueue("4 - Joseph", 4);
-            priorityQueue.Enqueue("2 - Tyler", 0); //Note: Priority = 0 right now!
-            priorityQueue.Enqueue("1 - Jason", 1);
-            priorityQueue.Enqueue("4 - Ryan", 4);
-            priorityQueue.Enqueue("3 - Valerie", 3);
+            Console.Write(" Въведи последователни букви: ");
+            var sequence = Console.ReadLine();
 
-            //Change one of the string's priority to 2.  Since this string is already in the priority queue, we call UpdatePriority() to do this
-            priorityQueue.UpdatePriority("2 - Tyler", 2);
 
-            //Finally, we'll dequeue all the strings and print them out
-            object p = priorityQueue.Count != 0;
-            while (p)
+            var found = IsExist(array, sequence);
+
+            Console.WriteLine(found);
+        }
+
+        private static bool IsExist(char[] array, string sequence)
+        {
+            var seqArr = sequence.ToCharArray();
+
+            var seqIndex = 0;
+
+            for (var i = 0; i < array.Length; i++)
             {
-                string nextUser = priorityQueue.Dequeue();
-                Console.WriteLine(nextUser);
+                if (array[i] == seqArr[seqIndex])
+                {
+                    seqIndex++;
+                    if (seqIndex == seqArr.Length)
+                    {
+                        return true;
+                    }
+                }
+                else
+                {
+                    seqIndex = 0;
+                }
             }
 
-            //Output:
-            //1 - Jason
-            //2 - Tyler
-            //3 - Valerie
-            //4 - Joseph
-            //4 - Ryan
-
-            //Notice that when two strings with the same priority were enqueued, they were dequeued in the same order that they were enqueued.
+            return false;
         }
     }
 }
