@@ -1,0 +1,11 @@
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.deps.json
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.runtimeconfig.json
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.runtimeconfig.dev.json
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.dll
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.pdb
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.csprojAssemblyReference.cache
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.dll
+C:\Users\Windows 7\Desktop\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.pdb
