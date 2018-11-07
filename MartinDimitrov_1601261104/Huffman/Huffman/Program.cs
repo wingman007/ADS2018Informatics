@@ -34,8 +34,8 @@ namespace Huffman
         {
             IList<Node> list = new List<Node>();
 
-            string[] characters = new string[] { "а", "б", "в", "г", "д", "е", "ж", "з", "и", "к", "л", "м" };
-            int[] charfreq = {51, 18, 53, 10, 55, 3, 50, 29, 20, 52, 54,500};
+            string[,] characters = new string[] { "а", "б", "в", "г", "д", "е", "ж", "з", "и", "к", "л", "м" };
+            int[,] charfreq = new int[] {51, 18, 53, 10, 55, 3, 50, 29, 20, 52, 54,500};
 
             for (int i = 0; i < characters.Length; i++)
             {
