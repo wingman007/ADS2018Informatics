@@ -67,7 +67,7 @@ bool hamCycleUtil(bool graph[V][V], int path[], int pos)
 
 	// Try different vertices as a next candidate in Hamiltonian Cycle. 
 	// We don't try for 0 as we included 0 as starting point in in hamCycle() 
-	for (int v = 0; v < V; v++) 
+	for (int v = 1; v < V; v++) 
 	{ 
 		/* Check if this vertex can be added to Hamiltonian Cycle */
 		if (isSafe(v, graph, path, pos)) 
@@ -103,7 +103,7 @@ bool hamCycle(bool graph[V][V])
 	/* Let us put vertex 0 as the first vertex in the path. If there is 
 	a Hamiltonian Cycle, then the path can be started from any point 
 	of the cycle as the graph is undirected */
-	path[0] = 1; 
+	path[0] = 0; 
 	if ( hamCycleUtil(graph, path, 1) == false ) 
 	{ 
 		printf("\nSolution does not exist"); 
@@ -132,9 +132,9 @@ int main()
 { 
 /* Let us create the following graph 
 	(0)--(1)--(2) 
-	|    / \   | 
-	|   /   \  | 
-	|  /	 \ | 
+	| / \ | 
+	| / \ | 
+	| /	 \ | 
 	(3)-------(4) */
 bool graph1[V][V] = {{0, 1, 0, 1, 0}, 
 					{1, 0, 1, 1, 1}, 
@@ -148,12 +148,11 @@ bool graph1[V][V] = {{0, 1, 0, 1, 0},
 
 /* Let us create the following graph 
 	(0)--(1)--(2) 
-	|    / \   | 
-	|   /   \  | 
-	|  /	 \ | 
-	(3)		  (4) */
-	bool graph2[V][V] = {
-	                {0, 1, 0, 1, 0}, 
+	| / \ | 
+	| / \ | 
+	| /	 \ | 
+	(3)	 (4) */
+	bool graph2[V][V] = {{0, 1, 0, 1, 0}, 
 					{1, 0, 1, 1, 1}, 
 					{0, 1, 0, 0, 1}, 
 					{1, 1, 0, 0, 0}, 
@@ -162,9 +161,8 @@ bool graph1[V][V] = {{0, 1, 0, 1, 0},
 
 	// Print the solution 
 	hamCycle(graph2); 
-    printf("\n");
-    
-    bool graph3[V][V] = {
+	printf("\n");
+	 bool graph3[V][V] = {
                     {0, 1, 1, 0, 0}, 
                     {1, 1, 0, 0, 0},
 					{0, 1, 0, 0, 1}, 
