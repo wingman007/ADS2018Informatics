@@ -8,7 +8,7 @@ Task number is 3.42, on page 238.
 
 ## Details
 
-Insertion Sort
+### Insertion Sort
 
 Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
 Algorithm
@@ -40,7 +40,7 @@ i = 3. 5 will move to the beginning and all other elements from 11 to 13 will mo
 i = 4. 6 will move to position after 5, and elements from 11 to 13 will move one position ahead of their current position.
 5, 6, 11, 12, 13
 
-Heapsort
+### Heapsort
 
 Algorithm
 
@@ -56,14 +56,14 @@ Call the siftDown() function on the list to sift the new first element to its ap
 Go to step (2) unless the considered range of the list is one element.
 The buildMaxHeap() operation is run once, and is O(n) in performance. The siftDown() function is O(log n), and is called n times. Therefore, the performance of this algorithm is O(n + n log n) = O(n log n).
 
-Selection Sort
+### Selection Sort
 
 Algorithm
 
 Selection sort is not difficult to analyze compared to other sorting algorithms since none of the loops depend on the data in the array. Selecting the minimum requires scanning n elements (taking n-1 comparisons) and then swapping it into the first position. 
 Finding the next lowest element requires scanning the remaining n-1 elements and so on.
 
-Bubble Sort
+### Bubble Sort
 
 The bubble sort algorithm can be easily optimized by observing that the n-th pass finds the n-th largest element and puts it into its final place. So, the inner loop can avoid looking at the last n − 1 items when running for the n-th time:
 
