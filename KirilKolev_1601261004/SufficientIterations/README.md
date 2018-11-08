@@ -60,15 +60,8 @@ Selection Sort
 
 Algorithm
 
-Selection sort is not difficult to analyze compared to other sorting algorithms since none of the loops depend on the data in the array. Selecting the minimum requires scanning {\displaystyle n} n elements (taking {\displaystyle n-1} n-1 comparisons) and then swapping it into the first position. Finding the next lowest element requires scanning the remaining {\displaystyle n-1} n-1 elements and so on. Therefore, the total number of comparisons is
-
-{\displaystyle (n-1)+(n-2)+...+1=\sum _{i=1}^{n-1}i=\sum _{i=1}^{n-1}{\binom {i}{1}}} {\displaystyle (n-1)+(n-2)+...+1=\sum _{i=1}^{n-1}i=\sum _{i=1}^{n-1}{\binom {i}{1}}}
-
-By the hockey-stick identity,
-
-{\displaystyle \sum _{i=1}^{n-1}{\binom {i}{1}}={\binom {n}{2}}={\frac {n!}{2!(n-2)!}}={\frac {1}{2}}n(n-1)={\frac {1}{2}}(n^{2}-n)} {\displaystyle \sum _{i=1}^{n-1}{\binom {i}{1}}={\binom {n}{2}}={\frac {n!}{2!(n-2)!}}={\frac {1}{2}}n(n-1)={\frac {1}{2}}(n^{2}-n)}
-
-which is of complexity {\displaystyle O(n^{2})} O(n^{2}) in terms of number of comparisons. Each of these scans requires one swap for {\displaystyle n-1} n-1 elements (the final element is already in place).
+Selection sort is not difficult to analyze compared to other sorting algorithms since none of the loops depend on the data in the array. Selecting the minimum requires scanning n elements (taking n-1 comparisons) and then swapping it into the first position. 
+Finding the next lowest element requires scanning the remaining n-1 elements and so on.
 
 Bubble Sort
 
