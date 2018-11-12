@@ -56,7 +56,7 @@ void straightInsertion(struct CElem m[], unsigned n)
 ## Пирамида
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/4/4d/Heapsort-example.gif)
 ```
-void heapSort(struct CElem m[], unsigned n) /* Пирамидално сортиране */
+void heapSort(struct CElem m[], unsigned n)
 { unsigned k;
 
 /* 1. Построяване на пирамидата */
