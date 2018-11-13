@@ -59,7 +59,7 @@ void findShortestDistance(Graph const& graph, int source, int N)
 		int v = departure[i];
 		for (Edge e : graph.adjList[v])
 		{
-		
+
 			int u = e.dest;
 			int w = e.weight;
 
@@ -67,31 +67,25 @@ void findShortestDistance(Graph const& graph, int source, int N)
 				cost[u] = cost[v] + w;
 		}
 	}
-
 	for (int i = 0; i < N; i++)
 	{
 		cout << "Shortest distance of source vertex " << source <<
 			" to vertex " << i << " is " << setw(2) << cost[i] << '\n';
 	}
 }
-
 int main()
 {
 	vector<Edge> edges =
 	{
-		{0, 6, 2}, {1, 2, -4}, {1, 4, 1}, {1, 6, 8}, {3, 0, 3}, {3, 4, 5},
-		{5, 1, 2}, {7, 0, 6}, {7, 1, -1}, {7, 3, 4}, {7, 5, -4}
+		{0, 7, 2}, {1, 2, 9}, {1, 4, 1}, {1, 6, 8}, {3, 0, 3}, {3, 4, 5},
+		{5, 1, 2}, {7, 0, 6}, {7, 1, 5}, {7, 3, 4}, {7, 5, 6}
 	};
-
-	
 	int N = 8;
 
-	
 	Graph graph(edges, N);
 
 	int source = 7;
 
-	
 	findShortestDistance(graph, source, N);
 	system("pause");
 	return 0;
