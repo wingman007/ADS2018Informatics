@@ -1,0 +1,11 @@
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\bin\Debug\netcoreapp2.1\reacheble_radius.deps.json
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\bin\Debug\netcoreapp2.1\reacheble_radius.runtimeconfig.json
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\bin\Debug\netcoreapp2.1\reacheble_radius.runtimeconfig.dev.json
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\bin\Debug\netcoreapp2.1\reacheble_radius.dll
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\bin\Debug\netcoreapp2.1\reacheble_radius.pdb
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\obj\Debug\netcoreapp2.1\reacheble_radius.csprojAssemblyReference.cache
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\obj\Debug\netcoreapp2.1\reacheble_radius.csproj.CoreCompileInputs.cache
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\obj\Debug\netcoreapp2.1\reacheble_radius.AssemblyInfoInputs.cache
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\obj\Debug\netcoreapp2.1\reacheble_radius.AssemblyInfo.cs
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\obj\Debug\netcoreapp2.1\reacheble_radius.dll
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\reacheble_radius\reacheble_radius\obj\Debug\netcoreapp2.1\reacheble_radius.pdb
