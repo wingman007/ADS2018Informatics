@@ -1,6 +1,6 @@
 # ADS2018Informatics
 
-
+#fLor1na
 Hello there folks.
 
 As you can see my name is Ivan Tsakov and I'll be posting some of my tasks for c# course. I'll mostly work with python.
