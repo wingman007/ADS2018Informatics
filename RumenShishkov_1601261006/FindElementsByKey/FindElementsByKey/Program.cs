@@ -15,7 +15,7 @@ namespace FindElementsByKey
 
             FindByKey(dictionary, "make");// search for item with key make
             FindByKey(dictionary, "person");// search for item with key person
-            FindByKey(dictionary, "animal");// search for item missing item
+            FindByKey(dictionary, "animal");// search for missing key
         }
 
         static void FindByKey(Dictionary<string, string> dictionary, string key)
