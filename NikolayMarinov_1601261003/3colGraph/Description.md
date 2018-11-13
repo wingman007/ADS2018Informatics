@@ -8,5 +8,5 @@ file and **ctrl + f5**. If you dont have the IDE installed go to https://visuals
 to download whichever suits you and follow the instalation instructions. For the program to run you need the **Visual C#** package installed.
 
 ### Brief description: 
-The program check if the given graphs edges can be colored in three different colors and colors them with the rule that no two adjecent edges can be colored in the same color.
+The program checks if the given graphs edges can be colored in three different colors and colors them with the rule that no two adjecent edges can be colored in the same color.
 
