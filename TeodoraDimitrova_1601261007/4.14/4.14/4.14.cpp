@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int search(int mat[4][4], int n, int x)
+void search(int mat[4][4], int n, int x)
 {
 	int i = 0, j = n - 1; 
 	while (i < n && j >= 0)
@@ -10,7 +10,6 @@ int search(int mat[4][4], int n, int x)
 		{
 			cout << "n found at "
 				<< i << ", " << j;
-			return 1;
 		}
 		if (mat[i][j] > x)
 			j--;
@@ -19,7 +18,6 @@ int search(int mat[4][4], int n, int x)
 	}
 
 	cout << "n element not found";
-	return 0;  
 }
 
 int main()
