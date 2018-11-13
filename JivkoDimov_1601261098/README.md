@@ -18,4 +18,7 @@
 ### When a new item joins the queue it first searches for its own acquaintances in it and if it finds it right after them then they create a team queue. If he does not find the new element he's finally in the queue. / Когато нов елемент се присъединява към опашката той първо претърсва за свои познати в нея и ако намери се включва точно след тях тогава те отбразуват отборна опашка. Ако не намери новият елемент застава накрая на опашката.
 
 ## RadiusOfAchievability / Радиус на достижимост
-### An algorithm that implements a feature to find all the elements. / Алгоритъм който реализира функция за намиране на всички елементи.
+### An algorithm that implements a feature to find all items in the array. / Алгоритъм който реализира функция за намиране на всички елементи в масива.
+
+## CheckForIsomorphismOfGraphs / Проверка за изоморфизъм на графи
+### If we get that node of one count and node of the other Count have the same orbit these columns are isomorphic. We are just looking for a numbering and checking for isomorphism. If we do not find isomorphism we take the next knot and look for isomorphism again. If we get to the end and do not find isomorphism the graphs are not isomorphic. / Ако получим че възел от единия граф и възел от другия граф имат една и съща орбита то тези графи са изоморфни. Търсим само една номерация и проверяваме за изоморфизъм. Ако не открием изоморфизъм ние взимаме следващия възел и пак търсим изоморфизъм. Ако стигнем до края и не намерим изоморфизъм графите не са изоморфни.
