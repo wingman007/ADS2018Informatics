@@ -1,0 +1,7 @@
+E:\Homework !\Search in Array\Search in Array\Search in Array\bin\Debug\Search in Array.exe.config
+E:\Homework !\Search in Array\Search in Array\Search in Array\bin\Debug\Search in Array.exe
+E:\Homework !\Search in Array\Search in Array\Search in Array\bin\Debug\Search in Array.pdb
+E:\Homework !\Search in Array\Search in Array\Search in Array\obj\Debug\Search in Array.csprojAssemblyReference.cache
+E:\Homework !\Search in Array\Search in Array\Search in Array\obj\Debug\Search in Array.csproj.CoreCompileInputs.cache
+E:\Homework !\Search in Array\Search in Array\Search in Array\obj\Debug\Search in Array.exe
+E:\Homework !\Search in Array\Search in Array\Search in Array\obj\Debug\Search in Array.pdb
