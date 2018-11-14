@@ -1,0 +1,11 @@
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\bin\Debug\netcoreapp2.1\ThreeSort.deps.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\bin\Debug\netcoreapp2.1\ThreeSort.runtimeconfig.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\bin\Debug\netcoreapp2.1\ThreeSort.runtimeconfig.dev.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\bin\Debug\netcoreapp2.1\ThreeSort.dll
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\bin\Debug\netcoreapp2.1\ThreeSort.pdb
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\obj\Debug\netcoreapp2.1\ThreeSort.csprojAssemblyReference.cache
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\obj\Debug\netcoreapp2.1\ThreeSort.csproj.CoreCompileInputs.cache
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\obj\Debug\netcoreapp2.1\ThreeSort.AssemblyInfoInputs.cache
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\obj\Debug\netcoreapp2.1\ThreeSort.AssemblyInfo.cs
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\obj\Debug\netcoreapp2.1\ThreeSort.dll
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\ThreeSort\ThreeSort\obj\Debug\netcoreapp2.1\ThreeSort.pdb
