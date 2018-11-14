@@ -8,6 +8,5 @@
 		** For best experience I would recommend to run the solutions in the terminal by executing the program via following -> python "solution_name.py"**
 
 
-### First solution will cover binary conversion to decimal and backwards.
-	
-	You can find the solution here [I'm an inline-style link with title](https://github.com/IvanTsakov/ADS2018Informatics/blob/master/IvanTsakov_1601261018/binaryAlgorithm/binaryAlgorithm.py "Binary Conversions.")
+### First solution will cover binary conversion to decimal and backwards.	
+	You can find the solution here [(https://github.com/IvanTsakov/ADS2018Informatics/blob/master/IvanTsakov_1601261018/binaryAlgorithm/binaryAlgorithm.py ](https://github.com/IvanTsakov/ADS2018Informatics/blob/master/IvanTsakov_1601261018/binaryAlgorithm/binaryAlgorithm.py "Binary Conversions.")
