@@ -1,0 +1,11 @@
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.deps.json
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.runtimeconfig.json
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.runtimeconfig.dev.json
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.dll
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.pdb
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.csprojAssemblyReference.cache
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.AssemblyInfoInputs.cache
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.AssemblyInfo.cs
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.dll
+C:\Users\Asus\ivanpetov\ADS2018Informatics-1\IvanPetov_1601261111\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.pdb
