@@ -3,7 +3,7 @@ using namespace std;
 
 void numpat(int n)
 {
-	int num = 1;
+	int num = 26;
 
 
 	for (int i = 0; i < n; i++)
@@ -14,7 +14,7 @@ void numpat(int n)
 			cout << num << " ";
 
 		
-			num = num + 1;
+			num = num - 1;
 		}
 		cout << endl;
 	}
@@ -22,7 +22,7 @@ void numpat(int n)
 
 int main()
 {
-	int n = 9;
+	int n = 7;
 	numpat(n);
 	system("pause");
 	return 0;
