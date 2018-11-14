@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="./grahamscan.js"></script>
+</head>
+
+<body onload="generate();draw();">
+  <canvas id="testCanvas"></canvas>
+  <button onclick="generate();draw();">generate new set of dots</button>
+  <button onclick="draw();findHull();">find hull</button>
+</body>
+<script>
+  var points = [];
+  function dot(ctx, point, style) {
+    ctx.save();
+    ctx.fillStyle = style;
+    ctx.beginPath();
+    ctx.arc(point.x, point.y, 2, 0, Math.PI * 2, true);
+    ctx.closePath();
+    ctx.fill();
+    ctx.restore();
+  }
+  function draw() {
+    var canvas = document.getElementById("testCanvas");
+    var ctx = canvas.getContext("2d");
+    ctx.save();
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.restore();
+    for (var i = 0; i < points.length; i++) {
+      dot(ctx, points[i], "rgba(55, 5, 25, 0.8)");
+    }
+  }
+  function findHull() {
+    var canvas = document.getElementById("testCanvas");
+    var ctx = canvas.getContext("2d");
+    var hull = new ConvexHull();
+    hull.compute(points);
+    var indices = hull.getIndices();
+    if (indices && indices.length > 0) {
+      ctx.beginPath();
+      ctx.moveTo(points[indices[0]].x, points[indices[0]].y);
+      for (var i = 1; i < indices.length; i++) {
+        ctx.lineTo(points[indices[i]].x, points[indices[i]].y);
+      }
+      ctx.closePath();
+      ctx.fillStyle = "rgba(200, 19, 64, 0.2)";
+      ctx.strokeStyle = "rgba(19, 64, 32, 0.5)";
+      ctx.fill();
+      ctx.stroke();
+      for (var i = 0; i < indices.length; i++) {
+        dot(ctx, points[indices[i]], "rgba(75, 120, 42, 0.8)");
+      }
+    }
+  }
+  var pointsCount = 35;
+  function generate() {
+    points = [];
+    for (var i = 0; i < pointsCount; i++) {
+      var pt = {
+        x: 10 + Math.random() * 270,
+        y: 10 + Math.random() * 270
+      };
+      points.push(pt);
+    }
+  }
+</script>
+
+</html>
