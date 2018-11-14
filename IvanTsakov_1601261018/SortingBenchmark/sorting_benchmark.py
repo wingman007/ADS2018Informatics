@@ -4,7 +4,6 @@ from random import sample
 
 mark = 0
 
-
 def tic():
     global mark
     mark = time()
@@ -17,15 +16,6 @@ def toc():
 	
 
 def insertion_sort(m):
-    """
-    Public: Sorts a list using the insertion sort algorithm.
-    m - The unsorted list.
-    Examples
-        insertion_sort([4,7,8,3,2,9,1])
-        # => [1,2,3,4,7,8,9]
-    Worst Case: O(n^2)
-    Returns the sorted list.
-    """
 
     for j in range(1, len(m)):
         key = m[j]
@@ -37,20 +27,10 @@ def insertion_sort(m):
             i = i - 1
 
         m[i + 1] = key
-
     return m
 
 
 def merge_sort(m):
-    """
-    Public: Sorts a list using the merge sort algorithm.
-    m - The unsorted list.
-    Examples
-        merge_sort([4,7,8,3,2,9,1])
-        # => [1,2,3,4,7,8,9]
-    Worst Case: O(n*Log(n))
-    Returns the sorted list.
-    """
 
     length = len(m)
 
@@ -66,19 +46,9 @@ def merge_sort(m):
 
 
 def merge(left, right):
-    """
-    Public: Merges two sorted lists.
-    left  - A sorted list.
-    right - A sorted list.
-    Examples
-        merge([2,4],[1,6])
-        # => [1,2,4,6]
-    Returns the sorted list post merge.
-    """
-
     merged = []
 
-    # while at least one list has elements
+    # while one of the list has some elements in it.
     while left or right:
 
         if left and right:
@@ -97,30 +67,21 @@ def merge(left, right):
 
 
 def quick_sort(m):
-    """
-    Public: Sorts a list using the quick sort algorithm.
-    m - The unsorted list.
-    Examples
-        quick_sort([4,7,8,3,2,9,1])
-        # => [1,2,3,4,7,8,9]
-    Worst Case: O(n^2)
-    Returns the sorted list.
-    """
 
     if len(m) <= 1:
         return m
 
     pivot = m.pop()
     less = []
-    gr8t = []
+    great = []
 
     for i in m:
         if i <= pivot:
             less.append(i)
         else:
-            gr8t.append(i)
+            great.append(i)
 
-	return quick_sort(less) + [pivot] + quick_sort(gr8t)
+	return quick_sort(less) + [pivot] + quick_sort(great)
 
 
 #this is the comparison.
@@ -133,7 +94,6 @@ def benchmark(func):
 		tic()
 		func(unsorted)
 		print "%s(%d)   \t %.4gs" % (func.__name__, i, toc())
-
 
 benchmark(insertion_sort)
 
