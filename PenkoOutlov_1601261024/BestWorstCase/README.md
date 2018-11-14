@@ -1,0 +1,47 @@
+Comparison between the speed of sorting algorithms.
+
+Sorting algorithms:
+- Quicksort
+    - best case: n log n
+    - average: n log n
+    - worst: n^2
+- Merge sort
+    - best case: n log n
+    - average: n log n
+    - worst: n log n
+- Heap sort
+    - best case: n if all keys are distinct otherwise n log n
+    - average: n log n
+    - worst: n log n
+- Insertion sort
+    - best case: n
+    - average: n^2
+    - worst: n^2
+- Selection sort
+    - best case: n^2
+    - average: n^2
+    - worst: n^2
+- Cubesort
+    - best case: n
+    - average: n log n
+    - worst: n log n
+- Shell sort
+    - best case: n log n
+    - average: depends on gap sequence
+    - worst: depends on gap sequence; best know is n log n
+- Bubble sort
+    - best case: n
+    - average: n^2
+    - worst: n^2
+- Binary tree sort
+    - best case: n log n
+    - average: n log n
+    - worst: n log n (if balanced)
+- Cocktail sort
+    - best case: n
+    - average: n^2
+    - worst: n^2
+- Comb sort
+    - best case: n log n
+    - average: n^2
+    - worst: n^2
