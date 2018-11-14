@@ -5,7 +5,6 @@ namespace KSmallestElement
 {
     class Program
     {
-
         private static int[] _arr = { 34, 22, 55, 64, 12, 41, 90, 23, 10, 37 };
         //                            10, 12, 22, 23, 34, 37, 41, 55, 64, 90
         private static int _k = 7;
@@ -21,7 +20,7 @@ namespace KSmallestElement
 
             //TODO Second task
             //var x = FindKElement();
-            //Console.WriteLine("The {0} element in ascending order is {1}", _k, x);
+            //Console.WriteLine("the {0} element in ascending order is {1}", _k, x);
 
             //ArraySplit(x);
             //PrintArray(left);
