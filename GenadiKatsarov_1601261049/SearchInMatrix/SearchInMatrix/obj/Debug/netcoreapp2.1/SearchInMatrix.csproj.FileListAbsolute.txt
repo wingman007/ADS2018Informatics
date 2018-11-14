@@ -8,3 +8,4 @@ C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatr
 C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\bin\Debug\netcoreapp2.1\SearchInMatrix.pdb
 C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.dll
 C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.pdb
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.csprojAssemblyReference.cache
