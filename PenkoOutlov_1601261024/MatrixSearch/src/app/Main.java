@@ -9,6 +9,7 @@ public class Main {
 
         int[][] matrix = {{1, 2, 3, 4, 5, 6}, {94, 283, 17494, 9173}};
 
+        System.out.print("Enter a search value: ");
         int userInput = input.nextInt();
 
         if (findInMatrix(matrix, userInput)) {
