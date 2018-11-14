@@ -20,6 +20,10 @@ Project for converting decimal numbers to binary and binary to decimal
 
 This program is for searching one element by key
 
+## KSmallestElement
+
+Finding the smallest element of one array 
+
 
 
 
