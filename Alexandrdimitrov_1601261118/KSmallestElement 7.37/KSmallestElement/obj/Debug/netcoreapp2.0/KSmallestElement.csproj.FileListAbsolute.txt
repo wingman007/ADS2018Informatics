@@ -1,0 +1,11 @@
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\bin\Debug\netcoreapp2.0\KSmallestElement.deps.json
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\bin\Debug\netcoreapp2.0\KSmallestElement.runtimeconfig.json
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\bin\Debug\netcoreapp2.0\KSmallestElement.runtimeconfig.dev.json
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\bin\Debug\netcoreapp2.0\KSmallestElement.dll
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\bin\Debug\netcoreapp2.0\KSmallestElement.pdb
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\obj\Debug\netcoreapp2.0\KSmallestElement.csprojAssemblyReference.cache
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\obj\Debug\netcoreapp2.0\KSmallestElement.csproj.CoreCompileInputs.cache
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\obj\Debug\netcoreapp2.0\KSmallestElement.AssemblyInfoInputs.cache
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\obj\Debug\netcoreapp2.0\KSmallestElement.AssemblyInfo.cs
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\obj\Debug\netcoreapp2.0\KSmallestElement.dll
+C:\Users\sanya\OneDrive\Документы\GitHub\ADS2018Informatics\Alexandrdimitrov_1601261118\KSmallestElement 7.37\KSmallestElement\obj\Debug\netcoreapp2.0\KSmallestElement.pdb

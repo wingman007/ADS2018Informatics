@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNonDecrSequence", "MaxNonDecrSequence\MaxNonDecrSequence.csproj", "{894E95DD-853E-4F83-A239-59E608C9FA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894E95DD-853E-4F83-A239-59E608C9FA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894E95DD-853E-4F83-A239-59E608C9FA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894E95DD-853E-4F83-A239-59E608C9FA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894E95DD-853E-4F83-A239-59E608C9FA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EA6834-4CEE-427C-9931-5EAAA6273281}
+	EndGlobalSection
+EndGlobal
