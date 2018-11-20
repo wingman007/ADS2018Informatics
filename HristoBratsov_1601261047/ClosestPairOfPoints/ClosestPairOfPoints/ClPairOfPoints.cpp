@@ -1,110 +1,141 @@
-#include <iostream>
-#include <vector>
-#include <utility>
-#include <cmath>
-#include <random>
-#include <chrono>
-#include <algorithm>
-#include <iterator>
-
-typedef std::pair<double, double> point_t;
-typedef std::pair<point_t, point_t> points_t;
-
-double distance_between(const point_t& a, const point_t& b) {
-	return std::sqrt(std::pow(b.first - a.first, 2)
-		+ std::pow(b.second - a.second, 2));
+#include <bits/stdc++.h>
+using namespace std;
+int u;
+int v;
+long long int bestmin = 10000000000000;
+long long int minimum = 10000000000000;
+struct points
+{
+	long long int x;
+	long long int y;
+	int pos;
+};
+int xcompare(points a, points b)
+{
+	return(a.x < b.x);
 }
+int ycompare(points a, points b)
+{
+	return (a.y < b.y);
+}
+long long int dis(points a, points b)
+{
 
-std::pair<double, points_t> find_closest_brute(const std::vector<point_t>& points) {
-	if (points.size() < 2) {
-		return { -1, { { 0, 0 }, { 0, 0 } } };
-	}
-	auto minDistance = std::abs(distance_between(points.at(0), points.at(1)));
-	points_t minPoints = { points.at(0), points.at(1) };
-	for (auto i = std::begin(points); i != (std::end(points) - 1); ++i) {
-		for (auto j = i + 1; j < std::end(points); ++j) {
-			auto newDistance = std::abs(distance_between(*i, *j));
-			if (newDistance < minDistance) {
-				minDistance = newDistance;
-				minPoints.first = *i;
-				minPoints.second = *j;
+	return (((a.x - b.x) * (a.x - b.x)) + ((a.y - b.y) * (a.y - b.y)));
+
+}
+long long int brute(points a[], int s, int e)
+{
+	int i;
+	int j;
+	int n;
+	int c;
+	int d;
+	int l;
+	int r;
+	n = e - s + 1;
+
+	for (i = s; i <= e; i++) {
+		for (j = i + 1; j <= e; j++) {
+			if (dis(a[i], a[j]) < minimum) {
+				minimum = dis(a[i], a[j]);
+				if (minimum < bestmin) {
+					bestmin = minimum;
+					u = a[i].pos;
+					v = a[j].pos;
+				}
 			}
 		}
 	}
-	return { minDistance, minPoints };
-}
 
-std::pair<double, points_t> find_closest_optimized(const std::vector<point_t>& xP,
-	const std::vector<point_t>& yP) {
-	if (xP.size() <= 3) {
-		return find_closest_brute(xP);
-	}
-	auto N = xP.size();
-	auto xL = std::vector<point_t>();
-	auto xR = std::vector<point_t>();
-	std::copy(std::begin(xP), std::begin(xP) + (N / 2), std::back_inserter(xL));
-	std::copy(std::begin(xP) + (N / 2), std::end(xP), std::back_inserter(xR));
-	auto xM = xP.at((N - 1) / 2).first;
-	auto yL = std::vector<point_t>();
-	auto yR = std::vector<point_t>();
-	std::copy_if(std::begin(yP), std::end(yP), std::back_inserter(yL), [&xM](const point_t& p) {
-		return p.first <= xM;
-	});
-	std::copy_if(std::begin(yP), std::end(yP), std::back_inserter(yR), [&xM](const point_t& p) {
-		return p.first > xM;
-	});
-	auto p1 = find_closest_optimized(xL, yL);
-	auto p2 = find_closest_optimized(xR, yR);
-	auto minPair = (p1.first <= p2.first) ? p1 : p2;
-	auto yS = std::vector<point_t>();
-	std::copy_if(std::begin(yP), std::end(yP), std::back_inserter(yS), [&minPair, &xM](const point_t& p) {
-		return std::abs(xM - p.first) < minPair.first;
-	});
-	auto result = minPair;
-	for (auto i = std::begin(yS); i != (std::end(yS) - 1); ++i) {
-		for (auto k = i + 1; k != std::end(yS) &&
-			((k->second - i->second) < minPair.first); ++k) {
-			auto newDistance = std::abs(distance_between(*k, *i));
-			if (newDistance < result.first) {
-				result = { newDistance, { *k, *i } };
+	return minimum;
+}
+long long int findclose(points a[], int k, long long int d)
+{
+
+
+	int i;
+	int j;
+	long long int min;
+	min = d;
+
+	sort(a, a + k, ycompare);
+
+
+	for (i = 0; i < k; i++) {
+		for (j = i + 1; j < k && (a[j].y - a[i].y) < min; j++) {
+			if (dis(a[i], a[j]) < min) {
+				min = dis(a[i], a[j]);
+				if (min < bestmin) {
+					bestmin = min;
+					u = a[i].pos;
+					v = a[j].pos;
+				}
+
 			}
 		}
 	}
-	return result;
-}
 
-void print_point(const point_t& point) {
-	std::cout << "(" << point.first
-		<< ", " << point.second
-		<< ")";
+	return min;
 }
+long long int  closepoints(points a[], int s, int e)
+{
+	int n = e - s + 1;
 
-int main(int argc, char * argv[]) {
-	std::default_random_engine re(std::chrono::system_clock::to_time_t(
-		std::chrono::system_clock::now()));
-	std::uniform_real_distribution<double> urd(-500.0, 500.0);
-	std::vector<point_t> points(100);
-	std::generate(std::begin(points), std::end(points), [&urd, &re]() {
-		return point_t{ 1000 + urd(re), 1000 + urd(re) };
-	});
-	auto answer = find_closest_brute(points);
-	std::sort(std::begin(points), std::end(points), [](const point_t& a, const point_t& b) {
-		return a.first < b.first;
-	});
-	auto xP = points;
-	std::sort(std::begin(points), std::end(points), [](const point_t& a, const point_t& b) {
-		return a.second < b.second;
-	});
-	auto yP = points;
-	std::cout << "Min distance (brute): " << answer.first << " ";
-	print_point(answer.second.first);
-	std::cout << ", ";
-	print_point(answer.second.second);
-	answer = find_closest_optimized(xP, yP);
-	std::cout << "\nMin distance (optimized): " << answer.first << " ";
-	print_point(answer.second.first);
-	std::cout << ", ";
-	print_point(answer.second.second);
-	system("pause");
-	return 0;
+
+
+	int mid = (s + e) / 2;
+	int mid1 = a[mid].x;
+	if (n <= 3) {
+		return  brute(a, s, e);
+	}
+
+	long long int l = closepoints(a, s, mid);
+	long long int r = closepoints(a, mid + 1, e);
+	//cout<<l<<' '<<r<<endl;
+
+	long long int m = min(l, r);
+
+	points b[n];
+	int k;
+	int i;
+
+	//cout<<mid1<<endl;
+	k = 0;
+
+	for (i = s; i <= e; i++) {
+		if (abs(mid1 - a[i].x) < m) {
+			b[k] = a[i];
+			k++;
+
+			//cout<<i<<endl;
+		}
+	}
+
+
+	return min(m, findclose(b, k, m));
+
+}
+int main()
+{
+	int n;
+	points a[50006];
+	int i;
+
+	cout << setiosflags(ios::fixed) << setprecision(6);
+
+	cin >> n;
+	for (i = 0; i < n; i++) {
+		cin >> a[i].x >> a[i].y;
+		a[i].pos = i;
+	}
+
+	sort(a, a + n, xcompare);
+
+
+	closepoints(a, 0, n - 1);
+	if (u > v) {
+		swap(u, v);
+	}
+	cout << u << ' ' << v << ' ' << sqrt((double)bestmin) << endl;
 }
