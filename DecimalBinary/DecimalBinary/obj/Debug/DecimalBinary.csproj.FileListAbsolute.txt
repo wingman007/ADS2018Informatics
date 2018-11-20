@@ -1,0 +1,6 @@
+c:\users\reneta\source\repos\DecimalBinary\DecimalBinary\bin\Debug\DecimalBinary.exe.config
+c:\users\reneta\source\repos\DecimalBinary\DecimalBinary\bin\Debug\DecimalBinary.exe
+c:\users\reneta\source\repos\DecimalBinary\DecimalBinary\bin\Debug\DecimalBinary.pdb
+c:\users\reneta\source\repos\DecimalBinary\DecimalBinary\obj\Debug\DecimalBinary.csproj.CoreCompileInputs.cache
+c:\users\reneta\source\repos\DecimalBinary\DecimalBinary\obj\Debug\DecimalBinary.exe
+c:\users\reneta\source\repos\DecimalBinary\DecimalBinary\obj\Debug\DecimalBinary.pdb
