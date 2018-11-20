@@ -1,0 +1,11 @@
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\bin\Debug\netcoreapp2.1\Closest2Points.deps.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\bin\Debug\netcoreapp2.1\Closest2Points.runtimeconfig.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\bin\Debug\netcoreapp2.1\Closest2Points.runtimeconfig.dev.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\bin\Debug\netcoreapp2.1\Closest2Points.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\bin\Debug\netcoreapp2.1\Closest2Points.pdb
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\obj\Debug\netcoreapp2.1\Closest2Points.csprojAssemblyReference.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\obj\Debug\netcoreapp2.1\Closest2Points.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\obj\Debug\netcoreapp2.1\Closest2Points.AssemblyInfoInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\obj\Debug\netcoreapp2.1\Closest2Points.AssemblyInfo.cs
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\obj\Debug\netcoreapp2.1\Closest2Points.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\Closest2Points\Closest2Points\obj\Debug\netcoreapp2.1\Closest2Points.pdb
