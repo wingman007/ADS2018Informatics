@@ -1,10 +1,1 @@
-# Simple Program for Convex Hulls C# (desktop app(windows form))
--------------------------------------------------------------------------------
-## You need MS Visual Studio to build and run this project!
--------------------------------------------------------------------------------
-### Run and Install
--------------------------------------------------------------------------------
-1. Open the project folder
-2. Run the sln file
-3. Build the project
-4. Run the form
+# In mathematics, the convex hull or convex envelope or convex closure of a set X of points in the Euclidean plane or in a Euclidean space (or, more generally, in an affine space over the reals) is the smallest convex set that contains X. For instance, when X is a bounded subset of the plane, the convex hull may be visualized as the shape enclosed by a rubber band stretched around X.
