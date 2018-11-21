@@ -13,6 +13,8 @@ namespace ThreeSort
             tree.InorderRec(tree.root);
 
             Console.ReadLine();
+
+            Console.WriteLine();
         }
     }
 }
