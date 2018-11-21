@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2010\Projects\eleOfArray\eleOfArray\bin\Debug\eleOfArray.exe
+c:\users\pc\documents\visual studio 2010\Projects\eleOfArray\eleOfArray\bin\Debug\eleOfArray.pdb
+c:\users\pc\documents\visual studio 2010\Projects\eleOfArray\eleOfArray\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2010\Projects\eleOfArray\eleOfArray\obj\x86\Debug\eleOfArray.exe
+c:\users\pc\documents\visual studio 2010\Projects\eleOfArray\eleOfArray\obj\x86\Debug\eleOfArray.pdb
