@@ -1,4 +1,8 @@
-ReverseRoot not finished
+ReverseRoot partial solution using C#
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Source code for main class:
 
 using System;
 using System.Collections.Generic;
@@ -6,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace graph
+namespace ReverseRoot
 {
     //Directed graph- Adjacency list representation
     class directedGraph
@@ -115,11 +119,11 @@ namespace graph
 
 Degree definitions:
 In-degree: For a directed graph G=(V(G),E(G)) and a vertex x1?V(G), the Out-Degree of x1 refers to the number of arcs incident from x1. That is, the number of arcs directed away from the vertex x1. The In-Degree of x1 refers to the number of arcs incident to x1. That is, the number of arcs directed towards the vertex x1.
-in short: The number of inward directed graph edges from a given graph vertex in a directed graph.
+In short: The number of inward directed graph edges from a given graph vertex in a directed graph.
 Out-degree: For a directed graph G=(V(G),E(G)), the Out-Degree Sequence is a sequence obtained by ordering the out-degrees of all vertices in V(G) in increasing order. The In-Degree Sequence is a sequence obtained by ordering the in-degrees of all vertices in V(G) in increasing order.
-in short: The number of outward directed graph edges from a given graph vertex in a directed graph.
+In short: The number of outward directed graph edges from a given graph vertex in a directed graph.
 Remark 1: In an undirected graph the total number vertices is the degree
 
-General idea to finish the solution
+General idea to finish the solution:
 Using induction. Set your vertices up in a linear fashion. The one endpoint vertex has all outgoing arcs to other vertices, and then self-loops to account for the in-degree. The other end-point vertex has no outgoing arcs. The vertices in the middle each have an appropriate number of self-loops as well as arcs to the each of the next vertices in line..
 Remark 2: This method will only work with a predifined directed graph.
