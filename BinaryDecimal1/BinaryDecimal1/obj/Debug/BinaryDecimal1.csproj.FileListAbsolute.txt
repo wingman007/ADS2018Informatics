@@ -1,7 +1,0 @@
-c:\users\reneta\source\repos\BinaryDecimal1\BinaryDecimal1\bin\Debug\BinaryDecimal1.exe.config
-c:\users\reneta\source\repos\BinaryDecimal1\BinaryDecimal1\bin\Debug\BinaryDecimal1.exe
-c:\users\reneta\source\repos\BinaryDecimal1\BinaryDecimal1\bin\Debug\BinaryDecimal1.pdb
-c:\users\reneta\source\repos\BinaryDecimal1\BinaryDecimal1\obj\Debug\BinaryDecimal1.csprojAssemblyReference.cache
-c:\users\reneta\source\repos\BinaryDecimal1\BinaryDecimal1\obj\Debug\BinaryDecimal1.csproj.CoreCompileInputs.cache
-c:\users\reneta\source\repos\BinaryDecimal1\BinaryDecimal1\obj\Debug\BinaryDecimal1.exe
-c:\users\reneta\source\repos\BinaryDecimal1\BinaryDecimal1\obj\Debug\BinaryDecimal1.pdb
