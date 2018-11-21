@@ -1,4 +1,4 @@
-# Graph Non-Crossing Routes using Dijkstra's algorithm in C# (console app; preset input)
+# Undirected Graph (symmetrical adjacency matrix) Non-Crossing Routes using Dijkstra's algorithm in C# (console app; preset input)
 -------------------------------------------------------------------------------
 ## You need MS Visual Studio to build and run this project!
 -------------------------------------------------------------------------------
