@@ -15,9 +15,13 @@ namespace ReverseRoot
     //Directed graph- Adjacency list representation
     class directedGraph
     {
-        //total no of vertices
+        /*
+	*total no of vertices
+	*/
         private int Vertices;
-        //adjency list array for all vertices.
+        /*
+	*adjency list array for all vertices.
+	*/
         private List<Int32>[] adj;
         /* Example : vertices=5
          *      0->[1,2]
@@ -27,7 +31,9 @@ namespace ReverseRoot
 	     *	    4->[9,7]
          */
 
-        //constructor
+        /*
+	*constructor
+	*/
         public directedGraph(int v)
         {
             Vertices = v;
