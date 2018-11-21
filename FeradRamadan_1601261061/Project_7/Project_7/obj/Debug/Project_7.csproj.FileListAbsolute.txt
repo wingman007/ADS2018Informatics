@@ -1,0 +1,7 @@
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\Project_7\Project_7\bin\Debug\Project_7.exe.config
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\Project_7\Project_7\bin\Debug\Project_7.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\Project_7\Project_7\bin\Debug\Project_7.pdb
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\Project_7\Project_7\obj\Debug\Project_7.csprojAssemblyReference.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\Project_7\Project_7\obj\Debug\Project_7.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\Project_7\Project_7\obj\Debug\Project_7.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\Project_7\Project_7\obj\Debug\Project_7.pdb
