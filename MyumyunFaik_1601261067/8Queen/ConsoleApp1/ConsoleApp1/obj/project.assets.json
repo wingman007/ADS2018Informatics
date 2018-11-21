@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mumun\\ADS2018Informatics\\MyumyunFaik_1601261067\\KSmallestElement\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Mumun\\Desktop\\8Queen\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Mumun\\ADS2018Informatics\\MyumyunFaik_1601261067\\KSmallestElement\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Mumun\\Desktop\\8Queen\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Mumun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mumun\\ADS2018Informatics\\MyumyunFaik_1601261067\\KSmallestElement\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Mumun\\Desktop\\8Queen\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
