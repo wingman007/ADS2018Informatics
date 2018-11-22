@@ -55,7 +55,7 @@ public class Main {
         System.out.print("{ ");
         for (int i = 0; i < VERTICES_COUNT; i++) {
             if (T[i] == 1) {
-                System.out.printf("%d ", i + 1);
+                System.out.printf("%d ", i);
             }
         }
         System.out.println("}");
