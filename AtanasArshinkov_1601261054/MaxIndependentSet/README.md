@@ -6,7 +6,7 @@ A project in which you can find every max independent set in a graph.
 
 In the sample you are given the following graph:
 
-![Graph picture](https://github.com/aarshinkov/ADS2018Informatics/blob/master/AtanasArshinkov_1601261054/Resources/graph.png "Graph")
+![Graph picture](https://github.com/aarshinkov/ADS2018Informatics/blob/master/AtanasArshinkov_1601261054/Resources/mis_graph.png "Graph")
 
 and the following graph matrix:
 
