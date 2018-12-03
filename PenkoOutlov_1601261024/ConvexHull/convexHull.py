@@ -21,3 +21,10 @@ def convex_hull(points):
 
     # find convex hull on each side
     return [v] + extend(u, v, left) + [u] + extend(v, u, right) + [v]
+
+points = np.random.rand(100, 2)
+hull = np.array(convex_hull(points))
+
+print(hull)
+
+input('Press any key to exit...')

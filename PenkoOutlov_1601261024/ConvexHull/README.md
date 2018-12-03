@@ -3,6 +3,7 @@ A program that solves the convex hull problem.
 Instructions to run:
 
 - Download and install Python from www.python.org
+- Download and install the latest version of numpy from https://sourceforge.net/projects/numpy/files/NumPy/
 - Clone the files on your local machine
 - Use an IDE or text editor to edit the files
 
