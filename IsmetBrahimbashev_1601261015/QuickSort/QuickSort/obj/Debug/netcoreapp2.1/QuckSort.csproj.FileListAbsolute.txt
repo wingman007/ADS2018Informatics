@@ -1,0 +1,11 @@
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\bin\Debug\netcoreapp2.1\QuckSort.deps.json
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\bin\Debug\netcoreapp2.1\QuckSort.runtimeconfig.json
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\bin\Debug\netcoreapp2.1\QuckSort.runtimeconfig.dev.json
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\bin\Debug\netcoreapp2.1\QuckSort.dll
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\bin\Debug\netcoreapp2.1\QuckSort.pdb
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\obj\Debug\netcoreapp2.1\QuckSort.csprojAssemblyReference.cache
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\obj\Debug\netcoreapp2.1\QuckSort.csproj.CoreCompileInputs.cache
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\obj\Debug\netcoreapp2.1\QuckSort.AssemblyInfoInputs.cache
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\obj\Debug\netcoreapp2.1\QuckSort.AssemblyInfo.cs
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\obj\Debug\netcoreapp2.1\QuckSort.dll
+C:\Users\StYlEr\source\repos\QuckSort\QuckSort\obj\Debug\netcoreapp2.1\QuckSort.pdb
