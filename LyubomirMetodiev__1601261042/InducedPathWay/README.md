@@ -33,7 +33,8 @@ its shortest odd induced cycle.
 ### Example
 
 
-The illustration shows a cube, a graph with eight vertices and twelve edges, and an induced path of length four in this graph. A straightforward 
+The illustration shows a cube, [link] (https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Snakeinthebox.svg/800px-Snakeinthebox.svg.png)
+a graph with eight vertices and twelve edges, and an induced path of length four in this graph. A straightforward 
 case analysis shows that there can be no longer induced path in the cube, although it has an induced cycle of length six. The problem of finding 
 the longest induced path or cycle in a hypercube, first posed by Kautz (1958), is known as the snake-in-the-box problem, and it has been studied 
 extensively due to its applications in coding theory and engineering.
