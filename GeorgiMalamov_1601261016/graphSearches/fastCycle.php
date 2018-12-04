@@ -66,6 +66,7 @@ function CycleMatrix($i)
                     $pred[$j] = $queue[$p];
                 }
             }
+            // tova ne e mnogo nujno
             $levelVert = $queueEnd;
 
         }
@@ -94,10 +95,32 @@ function check($start, $end)
     if ($pred[$end] > -1) {
         echo "The path is: \r\n";
         print_r($pred);
+
+        for($r = 0 ; $r < $end; $r++){
+            if($pred[$r]>-1){
+                $printArr[$r] = $pred[$r];
+            }
+          
+        }
+        $printArr = array_unique($printArr);
+        print_r($printArr);
+
     } else {
         echo "well shit";
     }
 
 }
+
+/* 
+    The array path for start 0; end 9 is:
+
+                    1!
+            0   2   3   4!
+                5   11  6!
+                        9!
+                        10
+
+        the correct path is: 1 -> 4 -> 6 to get to 9
+*/
 
 check(0,9);
