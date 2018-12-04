@@ -1,7 +1,7 @@
-#Induced path
+# Induced path
 
 # 
-###
+### Longest induced path
 Finding the longest induced path in a hypercube is known as the snake-in-the-box problem.
 In the mathematical area of graph theory, an induced path in an undirected graph G is a path that is an induced subgraph of G. That is,
 it is a sequence of vertices in G such that each two adjacent vertices in the sequence are connected by an edge in G, and each two 
@@ -19,8 +19,8 @@ an induced cycle as any chord could be used to produce a shorter cycle; for simi
 its shortest odd induced cycle.
 
 # 
-###
-Contents
+### Contents
+
 
     * Example
     * Characterization of graph families
@@ -30,8 +30,8 @@ Contents
     * References
 
 # 
-###
-Example
+### Example
+
 
 The illustration shows a cube, a graph with eight vertices and twelve edges, and an induced path of length four in this graph. A straightforward 
 case analysis shows that there can be no longer induced path in the cube, although it has an induced cycle of length six. The problem of finding 
@@ -40,7 +40,8 @@ extensively due to its applications in coding theory and engineering.
 Characterization of graph families
 
 # 
-###
+### Graph families
+
 Many important graph families can be characterized in terms of the induced paths or cycles of the graphs in the family.
 
     Trivially, the connected graphs with no induced path of length two are the complete graphs, and the connected graphs with no induced cycle 
@@ -58,8 +59,8 @@ between the same two vertices have the same length.
 graphs in which there is exactly one induced path between every two vertices.
 
 # 
-###
-Algorithms and complexity
+### Algorithms and complexity
+
 
 It is NP-complete to determine, for a graph G and parameter k, whether the graph has an induced path of length at least k. Garey & Johnson (1979) 
 credit this result to an unpublished communication of Mihalis Yannakakis. However, this problem can be solved in polynomial time for certain graph 
@@ -80,8 +81,9 @@ longest induced cycle to within a factor of O(n1/2-?) of the optimal solution.
 Holes (and antiholes in graphs without chordless cycles of length 5) in a graph with n vertices and m edges may be detected in time (n+m2).[9]
 
 # 
-###
-Atomic cycles
+### Atomic cycles
+
+
 Atomic cycles are a generalization of chordless cycles, that contain no n-chords. Given some cycle, an n-chord is defined as a path of length n connecting 
 two points on the cycle, where n is less than the length of the shortest path on the cycle connecting those points. If a cycle has no n-chords, it is called 
 an atomic cycle, because it cannot be decomposed into smaller cycles.[10] In the worst case, the atomic cycles in a graph can be enumerated in O(m2) time,
