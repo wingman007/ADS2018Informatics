@@ -22,3 +22,6 @@
 
 ## CheckForIsomorphismOfGraphs / Проверка за изоморфизъм на графи
 ### If we get that node of one count and node of the other Count have the same orbit these columns are isomorphic. We are just looking for a numbering and checking for isomorphism. If we do not find isomorphism we take the next knot and look for isomorphism again. If we get to the end and do not find isomorphism the graphs are not isomorphic. / Ако получим че възел от единия граф и възел от другия граф имат една и съща орбита то тези графи са изоморфни. Търсим само една номерация и проверяваме за изоморфизъм. Ако не открием изоморфизъм ние взимаме следващия възел и пак търсим изоморфизъм. Ако стигнем до края и не намерим изоморфизъм графите не са изоморфни.
+
+## BetterSortQuickly / По-добро бързо сортиране
+### Fast sorting is based on comparisons. It is not stable so it can move elements with the same keys. The classic algorithm uses an extra array but there is an option that sorts the data on-site without allocating a second array so only extra memory is used. / Бързото сортиране се основава на сравнения. То не е устойчиво тоест може да размества елементи с еднакви ключове. Класическият алгоритъм използва допълнителен масив но съществува вариант който сортира данните на място без заделяне на втори масив така че се използва само допълнителна памет.
