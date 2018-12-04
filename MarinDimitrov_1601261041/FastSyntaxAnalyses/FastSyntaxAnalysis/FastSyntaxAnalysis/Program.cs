@@ -44,7 +44,7 @@ namespace FastSyntaxAnalysis
                         }
                         break;
 
-                    case '/':
+                    case '\':
                         if (!stack.Any() || stack.Pop() != '/')
                         {
                             balanced = false;
