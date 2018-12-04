@@ -1,0 +1,7 @@
+E:\IvayloKovachev1601261081\KnightsTour\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe.config
+E:\IvayloKovachev1601261081\KnightsTour\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe
+E:\IvayloKovachev1601261081\KnightsTour\KnightsTour\KnightsTour\bin\Debug\KnightsTour.pdb
+E:\IvayloKovachev1601261081\KnightsTour\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csproj.CoreCompileInputs.cache
+E:\IvayloKovachev1601261081\KnightsTour\KnightsTour\KnightsTour\obj\Debug\KnightsTour.exe
+E:\IvayloKovachev1601261081\KnightsTour\KnightsTour\KnightsTour\obj\Debug\KnightsTour.pdb
+E:\IvayloKovachev1601261081\KnightsTour\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csprojAssemblyReference.cache
