@@ -1,15 +1,10 @@
-﻿Unlike statistical, dictionary methods encode not in single letters
-(here the letter most often means a symbol, but it can also be a sequence of symbols), but of
-whole words, sentences and random sequences. For this purpose a table (dictionary) is created
+﻿Dictionary methods encode not in single letters (here the letter most often means a symbol, but it can also be a sequence of symbols), but of whole words, sentences and random sequences. For this purpose a table (dictionary) is created
 matches. Each word is encoded with its index in the dictionary, and if it is missing there is transmitted
 without modification. Glossy encoding can be extremely effective in encoding
 text files, and in some cases the size of the input message can be reduced
 several times. The most popular methods in this class are LZ77, LZ78 and LZW.
 
-За разлика от статистическите, речниковите методи извършват кодиране не на отделни букви
-(тук буква означава най-често един символ, но може да бъде и последователност от символи), а на
-цели думи, изречения и произволни последователности. За целта се съставя таблица (речник) на
-съответствията. Всяка дума се кодира с индекса си в речника, а в случай, че липсва там, се предава
+Речниковите методи извършват кодиране не на отделни букви (тук буква означава най-често един символ, но може да бъде и последователност от символи), а на цели думи, изречения и произволни последователности. За целта се съставя таблица (речник) на съответствията. Всяка дума се кодира с индекса си в речника, а в случай, че липсва там, се предава
 без изменение. Речниковото кодиране може да бъде изключително ефективно при кодиране на
 текстови файлове, като в някои случаи размерът на входното съобщение може да се намали
 няколко пъти. Най-известните методи от този клас са LZ77, LZ78 и LZW.
