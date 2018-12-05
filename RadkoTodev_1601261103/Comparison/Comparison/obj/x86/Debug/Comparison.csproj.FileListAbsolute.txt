@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2010\Projects\Comparison\Comparison\bin\Debug\Comparison.exe
+c:\users\pc\documents\visual studio 2010\Projects\Comparison\Comparison\bin\Debug\Comparison.pdb
+c:\users\pc\documents\visual studio 2010\Projects\Comparison\Comparison\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2010\Projects\Comparison\Comparison\obj\x86\Debug\Comparison.exe
+c:\users\pc\documents\visual studio 2010\Projects\Comparison\Comparison\obj\x86\Debug\Comparison.pdb

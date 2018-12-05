@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2010\Projects\SearchInMatrix\SearchInMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2010\Projects\SearchInMatrix\SearchInMatrix\bin\Debug\SearchInMatrix.exe
+c:\users\pc\documents\visual studio 2010\Projects\SearchInMatrix\SearchInMatrix\bin\Debug\SearchInMatrix.pdb
+c:\users\pc\documents\visual studio 2010\Projects\SearchInMatrix\SearchInMatrix\obj\x86\Debug\SearchInMatrix.exe
+c:\users\pc\documents\visual studio 2010\Projects\SearchInMatrix\SearchInMatrix\obj\x86\Debug\SearchInMatrix.pdb
