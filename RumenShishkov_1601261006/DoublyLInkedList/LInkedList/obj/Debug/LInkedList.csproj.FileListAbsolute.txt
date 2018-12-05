@@ -1,0 +1,7 @@
+C:\Users\nvidia1997\Desktop\ADS2018Informatics\RumenShishkov_1601261006\LInkedList\LInkedList\bin\Debug\LInkedList.exe.config
+C:\Users\nvidia1997\Desktop\ADS2018Informatics\RumenShishkov_1601261006\LInkedList\LInkedList\bin\Debug\LInkedList.exe
+C:\Users\nvidia1997\Desktop\ADS2018Informatics\RumenShishkov_1601261006\LInkedList\LInkedList\bin\Debug\LInkedList.pdb
+C:\Users\nvidia1997\Desktop\ADS2018Informatics\RumenShishkov_1601261006\LInkedList\LInkedList\obj\Debug\LInkedList.csprojAssemblyReference.cache
+C:\Users\nvidia1997\Desktop\ADS2018Informatics\RumenShishkov_1601261006\LInkedList\LInkedList\obj\Debug\LInkedList.csproj.CoreCompileInputs.cache
+C:\Users\nvidia1997\Desktop\ADS2018Informatics\RumenShishkov_1601261006\LInkedList\LInkedList\obj\Debug\LInkedList.exe
+C:\Users\nvidia1997\Desktop\ADS2018Informatics\RumenShishkov_1601261006\LInkedList\LInkedList\obj\Debug\LInkedList.pdb
