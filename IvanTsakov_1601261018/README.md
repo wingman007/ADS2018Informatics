@@ -22,3 +22,16 @@ To install python on Linux -> You have python installed but if you want to insta
 
 #### Fifth solution will let you input a string and search in a text for that string:
 ---->You can find the solution here [Search String](https://github.com/IvanTsakov/ADS2018Informatics/tree/master/IvanTsakov_1601261018/SearchString)
+
+#### Sixth solution covers one of the problems of the Duke competition of 1993:
+---->You can find the solution here [Duke programming problem H](https://github.com/IvanTsakov/ADS2018Informatics/tree/master/IvanTsakov_1601261018/Duke%20programming%20problem%20H)
+
+#### Seventh solution will show the undirected graph and will show if there is a cycle that goes through it:
+---->You can find the solution here [Maximum Cycle](https://github.com/IvanTsakov/ADS2018Informatics/tree/master/IvanTsakov_1601261018/MaximumCycle)
+
+
+#### Eighth solution is closest pair of points:
+---->You can find the solution here [Maximum Cycle](https://github.com/IvanTsakov/ADS2018Informatics/tree/master/IvanTsakov_1601261018/closestPoints)
+
+
+
