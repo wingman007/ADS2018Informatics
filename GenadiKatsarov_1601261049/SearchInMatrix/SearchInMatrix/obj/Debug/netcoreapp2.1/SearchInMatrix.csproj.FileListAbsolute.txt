@@ -1,0 +1,11 @@
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.AssemblyInfoInputs.cache
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.AssemblyInfo.cs
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\bin\Debug\netcoreapp2.1\SearchInMatrix.deps.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\bin\Debug\netcoreapp2.1\SearchInMatrix.runtimeconfig.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\bin\Debug\netcoreapp2.1\SearchInMatrix.runtimeconfig.dev.json
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\bin\Debug\netcoreapp2.1\SearchInMatrix.dll
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\bin\Debug\netcoreapp2.1\SearchInMatrix.pdb
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.dll
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.pdb
+C:\Users\Ginadi\Genadi\ADS2018Informatics\GenadiKatsarov_1601261049\SearchInMatrix\SearchInMatrix\obj\Debug\netcoreapp2.1\SearchInMatrix.csprojAssemblyReference.cache
