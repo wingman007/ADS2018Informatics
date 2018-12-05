@@ -1,0 +1,11 @@
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\bin\Debug\netcoreapp2.1\StringSearch.deps.json
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\bin\Debug\netcoreapp2.1\StringSearch.runtimeconfig.json
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\bin\Debug\netcoreapp2.1\StringSearch.runtimeconfig.dev.json
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\bin\Debug\netcoreapp2.1\StringSearch.dll
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\bin\Debug\netcoreapp2.1\StringSearch.pdb
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\obj\Debug\netcoreapp2.1\StringSearch.csprojAssemblyReference.cache
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\obj\Debug\netcoreapp2.1\StringSearch.csproj.CoreCompileInputs.cache
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\obj\Debug\netcoreapp2.1\StringSearch.AssemblyInfoInputs.cache
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\obj\Debug\netcoreapp2.1\StringSearch.AssemblyInfo.cs
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\obj\Debug\netcoreapp2.1\StringSearch.dll
+C:\Users\Vanchyy\source\repos\StringSearch\StringSearch\obj\Debug\netcoreapp2.1\StringSearch.pdb
