@@ -1,0 +1,3 @@
+zad1ConvertDecAndBin
+BinCopy
+zad1convertdecandbin.Zad1ConvertDecAndBin
