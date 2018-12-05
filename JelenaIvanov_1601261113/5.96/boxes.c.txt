@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <assert.h>
+
+#include "graph.h"
+
+#define SIZE (37)
+
+int
+main(int argc, char **argv)
+{
+   Graph g;
+
+   struct list{
+int x1;
+int y1;
+int z1;
+} boxes[];
+
+   int i;
+   int j;
+
+   g = graph_create(SIZE);
+
+   
+   /* fill array and graph */
+   for(i = 0; i < TEST_SIZE; i++) {
+printf("x value");
+sacnf("%d\n",boxes[i].x1);
+printf("y value");
+sacnf("%d\n",boxes[i].y1);
+printf("z value");
+sacnf("%d\n",boxes[i].z1);
+for(j = 0; j < i; j++) {
+           if((boxes[i].x1 < boxes[j].x1)&&(boxes[i].y1 < boxes[j].y1)(boxes[i].z1 < boxes[j].z1)) graph_add_edge(g, i, j);
+       }
+   }
+
+
+   /* free it */
+   graph_destroy(g);
+
+   return 0;
+}
