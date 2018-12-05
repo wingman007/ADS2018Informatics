@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fmi\\Desktop\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "C:\\Users\\fmi\\Lyubomir\\ADS2018Informatics\\LyubomirStamboliev_1601261057\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
       "projectName": "ConsoleApp3",
-      "projectPath": "C:\\Users\\fmi\\Desktop\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectPath": "C:\\Users\\fmi\\Lyubomir\\ADS2018Informatics\\LyubomirStamboliev_1601261057\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
       "packagesPath": "C:\\Users\\fmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fmi\\Desktop\\ConsoleApp3\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\fmi\\Lyubomir\\ADS2018Informatics\\LyubomirStamboliev_1601261057\\ConsoleApp3\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
