@@ -1,0 +1,11 @@
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\bin\Debug\netcoreapp2.1\MaxNonDecrSequence.deps.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\bin\Debug\netcoreapp2.1\MaxNonDecrSequence.runtimeconfig.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\bin\Debug\netcoreapp2.1\MaxNonDecrSequence.runtimeconfig.dev.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\bin\Debug\netcoreapp2.1\MaxNonDecrSequence.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\bin\Debug\netcoreapp2.1\MaxNonDecrSequence.pdb
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\obj\Debug\netcoreapp2.1\MaxNonDecrSequence.csprojAssemblyReference.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\obj\Debug\netcoreapp2.1\MaxNonDecrSequence.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\obj\Debug\netcoreapp2.1\MaxNonDecrSequence.AssemblyInfoInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\obj\Debug\netcoreapp2.1\MaxNonDecrSequence.AssemblyInfo.cs
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\obj\Debug\netcoreapp2.1\MaxNonDecrSequence.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\MaxNonDecrSequence\MaxNonDecrSequence\obj\Debug\netcoreapp2.1\MaxNonDecrSequence.pdb

@@ -1,0 +1,11 @@
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.1\RecursionDemo.deps.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.1\RecursionDemo.runtimeconfig.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.1\RecursionDemo.runtimeconfig.dev.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.1\RecursionDemo.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.1\RecursionDemo.pdb
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.1\RecursionDemo.csprojAssemblyReference.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.1\RecursionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.1\RecursionDemo.AssemblyInfoInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.1\RecursionDemo.AssemblyInfo.cs
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.1\RecursionDemo.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RecursionDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.1\RecursionDemo.pdb

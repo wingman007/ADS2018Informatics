@@ -1,0 +1,11 @@
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\obj\Debug\netcoreapp2.1\InsertSort.csprojAssemblyReference.cache
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\obj\Debug\netcoreapp2.1\InsertSort.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\obj\Debug\netcoreapp2.1\InsertSort.AssemblyInfoInputs.cache
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\obj\Debug\netcoreapp2.1\InsertSort.AssemblyInfo.cs
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\bin\Debug\netcoreapp2.1\InsertSort.deps.json
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\bin\Debug\netcoreapp2.1\InsertSort.runtimeconfig.json
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\bin\Debug\netcoreapp2.1\InsertSort.runtimeconfig.dev.json
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\bin\Debug\netcoreapp2.1\InsertSort.dll
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\bin\Debug\netcoreapp2.1\InsertSort.pdb
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\obj\Debug\netcoreapp2.1\InsertSort.dll
+C:\Users\Simeon\Documents\FMI\InsertSort\InsertSort\obj\Debug\netcoreapp2.1\InsertSort.pdb
