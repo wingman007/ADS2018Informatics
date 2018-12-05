@@ -1,0 +1,7 @@
+c:\users\reneta\source\repos\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+c:\users\reneta\source\repos\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+c:\users\reneta\source\repos\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+c:\users\reneta\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+c:\users\reneta\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+c:\users\reneta\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+c:\users\reneta\source\repos\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
