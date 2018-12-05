@@ -1,0 +1,3 @@
+C:\Users\Windows 7\Desktop\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.AssemblyInfo.cs
