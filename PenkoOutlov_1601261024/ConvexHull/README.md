@@ -1,14 +1,16 @@
-A program that solves the convex hull problem.
+A program that implements the convex hull problem.
 
 Instructions to run:
 
-- Download and install Python from www.python.org
-- Download and install the latest version of numpy from https://sourceforge.net/projects/numpy/files/NumPy/
+- Download the Java JDK from Oracle's website - (Project is running on JDK 1.8)
 - Clone the files on your local machine
 - Use an IDE or text editor to edit the files
 
 For text editor users:
-- Once you have Python 3.5 installed just double click on the file and it will execute.
+- open a console(terminal) to the directory of the files
+- run the following commands assuming you have already downloaded, installed and setup the java environment variables
+    - javac Main.java
+    - java Main
 
 For IDE users:
 - Run the application from your IDE
