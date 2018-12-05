@@ -1,0 +1,9 @@
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\bin\Debug\ConvexHull.exe
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\bin\Debug\ConvexHull.pdb
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\obj\Debug\ConvexHull.csprojAssemblyReference.cache
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\obj\Debug\ConvexHull.frmConvexHull.resources
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\obj\Debug\ConvexHull.Properties.Resources.resources
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\obj\Debug\ConvexHull.csproj.GenerateResource.cache
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\obj\Debug\ConvexHull.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\obj\Debug\ConvexHull.exe
+C:\Users\Ivaylo Kovachev\Downloads\ConvexHull\ConvexHull\obj\Debug\ConvexHull.pdb
