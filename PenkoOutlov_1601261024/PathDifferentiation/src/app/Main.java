@@ -8,6 +8,10 @@ import java.util.Scanner;
 
 public class Main {
 
+    private static int totalEdges = 0;
+
+    private static int currentEdgeCount = 0;
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -51,6 +55,8 @@ public class Main {
                 .orElse(null);
 
         for (Node node : sNode.getNodes()) {
+            currentEdgeCount++;
+
             System.out.print(s + " -> ");
 
             findPaths(node, t);
@@ -58,9 +64,7 @@ public class Main {
             node.setTraversed(true);
         }
 
-        int foundEdges = 0;
-
-        if (foundEdges >= 1 && foundEdges <= k) {
+        if (totalEdges >= 1 && totalEdges <= k) {
             System.out.println("Yes");
         } else {
             System.out.println("No");
@@ -70,22 +74,31 @@ public class Main {
     private static boolean findPaths(Node current, int value) {
         if (current.isTraversed()) {
             System.out.println("Already traversed");
+            currentEdgeCount = 0;
+
             return false;
         }
 
         if (current.getValue() == value) {
             System.out.println(value);
+            totalEdges += currentEdgeCount;
+            currentEdgeCount = 0;
+
             return true;
         }
 
         if (current.getNodes().isEmpty()) {
             System.out.println(current.getValue());
+            currentEdgeCount = 0;
+
             return false;
         }
 
         boolean pathFound = false;
 
         for (Node next : current.getNodes()) {
+            currentEdgeCount++;
+
             System.out.print(current.getValue() + " -> ");
 
             if (findPaths(next, value)) {
