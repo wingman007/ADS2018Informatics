@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Insertion sort, Configuration: Debug Any CPU ------
+1>Insertion sort -> E:\sait\SaitChaush1601261985\SaitChaush1601261085\Insertion sort\Insertion sort\bin\Debug\netcoreapp2.1\Insertion sort.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
