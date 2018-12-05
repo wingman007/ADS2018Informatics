@@ -1,0 +1,1 @@
+# This is my method of sorting bubbles. There are several randomly entered numbers and the final result - they are sorted from the smallest one to the biggest one.
