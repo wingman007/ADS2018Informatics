@@ -1,0 +1,11 @@
+C:\Users\Georgi\source\repos\binToDes\binToDes\bin\Debug\netcoreapp2.1\binToDes.deps.json
+C:\Users\Georgi\source\repos\binToDes\binToDes\bin\Debug\netcoreapp2.1\binToDes.runtimeconfig.json
+C:\Users\Georgi\source\repos\binToDes\binToDes\bin\Debug\netcoreapp2.1\binToDes.runtimeconfig.dev.json
+C:\Users\Georgi\source\repos\binToDes\binToDes\bin\Debug\netcoreapp2.1\binToDes.dll
+C:\Users\Georgi\source\repos\binToDes\binToDes\bin\Debug\netcoreapp2.1\binToDes.pdb
+C:\Users\Georgi\source\repos\binToDes\binToDes\obj\Debug\netcoreapp2.1\binToDes.csprojAssemblyReference.cache
+C:\Users\Georgi\source\repos\binToDes\binToDes\obj\Debug\netcoreapp2.1\binToDes.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\binToDes\binToDes\obj\Debug\netcoreapp2.1\binToDes.AssemblyInfoInputs.cache
+C:\Users\Georgi\source\repos\binToDes\binToDes\obj\Debug\netcoreapp2.1\binToDes.AssemblyInfo.cs
+C:\Users\Georgi\source\repos\binToDes\binToDes\obj\Debug\netcoreapp2.1\binToDes.dll
+C:\Users\Georgi\source\repos\binToDes\binToDes\obj\Debug\netcoreapp2.1\binToDes.pdb

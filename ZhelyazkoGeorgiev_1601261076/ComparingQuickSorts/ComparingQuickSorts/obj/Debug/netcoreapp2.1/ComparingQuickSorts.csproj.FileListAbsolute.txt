@@ -1,0 +1,10 @@
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\bin\Debug\netcoreapp2.1\ComparingQuickSorts.deps.json
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\bin\Debug\netcoreapp2.1\ComparingQuickSorts.runtimeconfig.json
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\bin\Debug\netcoreapp2.1\ComparingQuickSorts.runtimeconfig.dev.json
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\bin\Debug\netcoreapp2.1\ComparingQuickSorts.dll
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\bin\Debug\netcoreapp2.1\ComparingQuickSorts.pdb
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\obj\Debug\netcoreapp2.1\ComparingQuickSorts.csproj.CoreCompileInputs.cache
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\obj\Debug\netcoreapp2.1\ComparingQuickSorts.AssemblyInfoInputs.cache
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\obj\Debug\netcoreapp2.1\ComparingQuickSorts.AssemblyInfo.cs
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\obj\Debug\netcoreapp2.1\ComparingQuickSorts.dll
+D:\MY SHIT\C#\ComparingQuickSorts\ComparingQuickSorts\obj\Debug\netcoreapp2.1\ComparingQuickSorts.pdb

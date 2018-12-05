@@ -1,0 +1,1 @@
+This selection sort is a little bit faster than bubble sort,and it works like it.

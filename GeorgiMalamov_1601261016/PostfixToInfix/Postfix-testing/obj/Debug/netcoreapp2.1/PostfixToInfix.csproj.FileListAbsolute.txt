@@ -1,0 +1,11 @@
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\bin\Debug\netcoreapp2.1\PostfixToInfix.deps.json
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\bin\Debug\netcoreapp2.1\PostfixToInfix.runtimeconfig.json
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\bin\Debug\netcoreapp2.1\PostfixToInfix.runtimeconfig.dev.json
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\bin\Debug\netcoreapp2.1\PostfixToInfix.dll
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\bin\Debug\netcoreapp2.1\PostfixToInfix.pdb
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\obj\Debug\netcoreapp2.1\PostfixToInfix.csprojAssemblyReference.cache
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\obj\Debug\netcoreapp2.1\PostfixToInfix.csproj.CoreCompileInputs.cache
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\obj\Debug\netcoreapp2.1\PostfixToInfix.AssemblyInfoInputs.cache
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\obj\Debug\netcoreapp2.1\PostfixToInfix.AssemblyInfo.cs
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\obj\Debug\netcoreapp2.1\PostfixToInfix.dll
+D:\vsProjects\ADS2018Informatics\GeorgiMalamov_1601261016\Postfix-testing\Postfix-testing\obj\Debug\netcoreapp2.1\PostfixToInfix.pdb

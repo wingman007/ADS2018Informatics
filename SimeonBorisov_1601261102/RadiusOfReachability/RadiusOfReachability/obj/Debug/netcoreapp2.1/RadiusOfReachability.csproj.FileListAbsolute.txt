@@ -1,0 +1,11 @@
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\bin\Debug\netcoreapp2.1\RadiusOfReachability.deps.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\bin\Debug\netcoreapp2.1\RadiusOfReachability.runtimeconfig.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\bin\Debug\netcoreapp2.1\RadiusOfReachability.runtimeconfig.dev.json
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\bin\Debug\netcoreapp2.1\RadiusOfReachability.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\bin\Debug\netcoreapp2.1\RadiusOfReachability.pdb
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\obj\Debug\netcoreapp2.1\RadiusOfReachability.csprojAssemblyReference.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\obj\Debug\netcoreapp2.1\RadiusOfReachability.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\obj\Debug\netcoreapp2.1\RadiusOfReachability.AssemblyInfoInputs.cache
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\obj\Debug\netcoreapp2.1\RadiusOfReachability.AssemblyInfo.cs
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\obj\Debug\netcoreapp2.1\RadiusOfReachability.dll
+C:\Users\Simeon\Documents\FMI\ADS2018Informatics\SimeonBorisov_1601261102\RadiusOfReachability\RadiusOfReachability\obj\Debug\netcoreapp2.1\RadiusOfReachability.pdb

@@ -1,0 +1,11 @@
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\bin\Debug\netcoreapp2.1\BinaryTreeTask.deps.json
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\bin\Debug\netcoreapp2.1\BinaryTreeTask.runtimeconfig.json
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\bin\Debug\netcoreapp2.1\BinaryTreeTask.runtimeconfig.dev.json
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\bin\Debug\netcoreapp2.1\BinaryTreeTask.dll
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\bin\Debug\netcoreapp2.1\BinaryTreeTask.pdb
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\obj\Debug\netcoreapp2.1\BinaryTreeTask.csprojAssemblyReference.cache
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\obj\Debug\netcoreapp2.1\BinaryTreeTask.csproj.CoreCompileInputs.cache
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\obj\Debug\netcoreapp2.1\BinaryTreeTask.AssemblyInfoInputs.cache
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\obj\Debug\netcoreapp2.1\BinaryTreeTask.AssemblyInfo.cs
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\obj\Debug\netcoreapp2.1\BinaryTreeTask.dll
+D:\MY SHIT\C#\BinaryTreeTask\BinaryTreeTask\obj\Debug\netcoreapp2.1\BinaryTreeTask.pdb

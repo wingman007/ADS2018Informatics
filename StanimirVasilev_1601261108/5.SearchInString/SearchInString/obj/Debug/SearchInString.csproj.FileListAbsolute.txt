@@ -1,0 +1,7 @@
+C:\Users\StanimiR\source\repos\SearchInString\SearchInString\obj\Debug\SearchInString.csprojAssemblyReference.cache
+C:\Users\StanimiR\source\repos\SearchInString\SearchInString\obj\Debug\SearchInString.csproj.CoreCompileInputs.cache
+C:\Users\StanimiR\source\repos\SearchInString\SearchInString\bin\Debug\SearchInString.exe.config
+C:\Users\StanimiR\source\repos\SearchInString\SearchInString\bin\Debug\SearchInString.exe
+C:\Users\StanimiR\source\repos\SearchInString\SearchInString\bin\Debug\SearchInString.pdb
+C:\Users\StanimiR\source\repos\SearchInString\SearchInString\obj\Debug\SearchInString.exe
+C:\Users\StanimiR\source\repos\SearchInString\SearchInString\obj\Debug\SearchInString.pdb

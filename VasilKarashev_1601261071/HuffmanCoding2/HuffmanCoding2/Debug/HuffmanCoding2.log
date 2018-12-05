@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vasil\source\repos\huffmancoding2\huffmancoding2\source.cpp(43): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HuffmanCoding2.vcxproj -> C:\Users\vasil\source\repos\HuffmanCoding2\Debug\HuffmanCoding2.exe

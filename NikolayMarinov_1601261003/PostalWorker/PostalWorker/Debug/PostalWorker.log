@@ -1,0 +1,3 @@
+﻿  PostalWorker.cpp
+c:\users\user\desktop\postalworker\postalworker\postalworker.cpp(47): warning C4715: 'dijkstra': not all control paths return a value
+  PostalWorker.vcxproj -> C:\Users\User\Desktop\PostalWorker\Debug\PostalWorker.exe

@@ -1,0 +1,1 @@
+This program run an algorithm which convert numbers -binary to decimal

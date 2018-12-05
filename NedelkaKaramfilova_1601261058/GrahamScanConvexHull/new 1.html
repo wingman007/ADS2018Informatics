@@ -1,0 +1,55 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title> Пример за формуляр </title>
+<script type="text/JavaScript">
+function writeData()
+{
+	document.winData.document.open();
+	document.winData.document.write("<body bgColor='yellow'>");
+	document.winData.document.write(document.student.stuname.value, "<br>");
+	document.winData.document.write(document.student.fn.value, "<br>");
+	document.winData.document.write(document.student.mail.value, "<br>");
+	document.winData.document.write(document.student.course.value, "<br>");
+	
+	document.winData.document.write("</body>");
+	document.winData.document.close();
+}
+</script>
+</head>
+<body>
+<h1>Данни за студента </h1>
+<form name="student" action="form-student.html" method="get">
+Име: <input type="text" name="stuname" required placeholder="vavedete ime">
+Фак. номер: <input type="text" name="fn" maxlenght="10"> <br><br>
+E-поща: <input type="email" name="mail">
+Парола: <input type="password" name="passwd" <br><br>
+Курс: <input type="number" name="course" min="1" max="4" step="1" value="2">
+Спциалност:
+<select name="spec">
+<option value="Информатика"> Информатика</option>
+<option value="Бит"> Бит</option>
+<option value="Си"> Си</option>
+<option value="СТД"> СТД</option>
+<option value="Приложна математика"> Приложна математика</option>
+</select> <br><br>
+Пол: <input type="radio" name="sex" value="жена"> жена
+<input type="radio" name="sex" value="мъж"checked> мъж <br><br>
+<u> Владеене на чужди езици </u><br>
+<input type="checkbox" name="lng" value="английски"> английски <br>
+<input type="checkbox" name="lng" value="руски"> руски <br>
+<input type="checkbox" name="lng" value="други"> други <br> <br>
+<u> Кратка автобиография </u> <br>
+<textarea name="CV" cols="60" rows="10"> Кратка автобиография </textarea> <br> <br> 
+<input type="submit" value="Изпращане на данни">
+<input type="reset" value="Начални стойности"> <br> <br>
+
+<iframe name="winData" width="450" height="280"></iframe>
+<input type="button" value="Извеждане на данни" onClick="writeData()"> <br><br>
+
+</form>
+</body>
+</html>
+Край на разговора в чата
+Напишете съобщение...
+

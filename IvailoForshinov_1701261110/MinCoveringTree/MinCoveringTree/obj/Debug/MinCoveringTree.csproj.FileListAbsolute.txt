@@ -1,0 +1,7 @@
+C:\Users\Ivailo\source\repos\MinCoveringTree\MinCoveringTree\bin\Debug\MinCoveringTree.exe.config
+C:\Users\Ivailo\source\repos\MinCoveringTree\MinCoveringTree\bin\Debug\MinCoveringTree.exe
+C:\Users\Ivailo\source\repos\MinCoveringTree\MinCoveringTree\bin\Debug\MinCoveringTree.pdb
+C:\Users\Ivailo\source\repos\MinCoveringTree\MinCoveringTree\obj\Debug\MinCoveringTree.csprojAssemblyReference.cache
+C:\Users\Ivailo\source\repos\MinCoveringTree\MinCoveringTree\obj\Debug\MinCoveringTree.csproj.CoreCompileInputs.cache
+C:\Users\Ivailo\source\repos\MinCoveringTree\MinCoveringTree\obj\Debug\MinCoveringTree.exe
+C:\Users\Ivailo\source\repos\MinCoveringTree\MinCoveringTree\obj\Debug\MinCoveringTree.pdb

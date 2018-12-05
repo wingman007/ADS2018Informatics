@@ -1,0 +1,7 @@
+C:\Users\Jelena\source\repos\k\k\bin\Debug\k.exe.config
+C:\Users\Jelena\source\repos\k\k\bin\Debug\k.exe
+C:\Users\Jelena\source\repos\k\k\bin\Debug\k.pdb
+C:\Users\Jelena\source\repos\k\k\obj\Debug\k.csprojAssemblyReference.cache
+C:\Users\Jelena\source\repos\k\k\obj\Debug\k.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\k\k\obj\Debug\k.exe
+C:\Users\Jelena\source\repos\k\k\obj\Debug\k.pdb

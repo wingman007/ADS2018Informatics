@@ -1,0 +1,11 @@
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\bin\Debug\netcoreapp2.1\decimal to binary.deps.json
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\bin\Debug\netcoreapp2.1\decimal to binary.runtimeconfig.json
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\bin\Debug\netcoreapp2.1\decimal to binary.runtimeconfig.dev.json
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\bin\Debug\netcoreapp2.1\decimal to binary.dll
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\bin\Debug\netcoreapp2.1\decimal to binary.pdb
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\obj\Debug\netcoreapp2.1\decimal to binary.csprojAssemblyReference.cache
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\obj\Debug\netcoreapp2.1\decimal to binary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\obj\Debug\netcoreapp2.1\decimal to binary.AssemblyInfoInputs.cache
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\obj\Debug\netcoreapp2.1\decimal to binary.AssemblyInfo.cs
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\obj\Debug\netcoreapp2.1\decimal to binary.dll
+C:\Users\Admin\PreslavChotov\ADS2018Informatics\PreslavChotov_1601261046\decimal to binary\decimal to binary\obj\Debug\netcoreapp2.1\decimal to binary.pdb

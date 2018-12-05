@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAGShortestPath", "DAGShortestPath\DAGShortestPath.csproj", "{44C09F9F-2482-4AC8-BEF2-3B456F6A3546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C09F9F-2482-4AC8-BEF2-3B456F6A3546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C09F9F-2482-4AC8-BEF2-3B456F6A3546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C09F9F-2482-4AC8-BEF2-3B456F6A3546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C09F9F-2482-4AC8-BEF2-3B456F6A3546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED703672-D2D4-42FD-AD87-BA1852F11CCA}
+	EndGlobalSection
+EndGlobal

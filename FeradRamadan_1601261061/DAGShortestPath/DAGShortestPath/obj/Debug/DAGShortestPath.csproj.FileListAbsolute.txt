@@ -1,0 +1,6 @@
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\DAGShortestPath\DAGShortestPath\bin\Debug\DAGShortestPath.exe.config
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\DAGShortestPath\DAGShortestPath\bin\Debug\DAGShortestPath.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\DAGShortestPath\DAGShortestPath\bin\Debug\DAGShortestPath.pdb
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\DAGShortestPath\DAGShortestPath\obj\Debug\DAGShortestPath.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\DAGShortestPath\DAGShortestPath\obj\Debug\DAGShortestPath.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\DAGShortestPath\DAGShortestPath\obj\Debug\DAGShortestPath.pdb

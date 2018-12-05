@@ -1,0 +1,3 @@
+﻿  CyclicO.cpp
+d:\chwork\hristobratsov\ads2018informatics\hristobratsov_1601261047\cyclic order\cyclic order\cyclico.cpp(83): warning C4244: 'argument': conversion from '__time64_t' to 'unsigned int', possible loss of data
+  Cyclic Order.vcxproj -> D:\ChWork\HristoBratsov\ADS2018Informatics\HristoBratsov_1601261047\Cyclic Order\Debug\Cyclic Order.exe

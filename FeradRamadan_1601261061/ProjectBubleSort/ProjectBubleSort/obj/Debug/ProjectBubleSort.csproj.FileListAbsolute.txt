@@ -1,0 +1,7 @@
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\ProjectBubleSort\ProjectBubleSort\bin\Debug\ProjectBubleSort.exe.config
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\ProjectBubleSort\ProjectBubleSort\bin\Debug\ProjectBubleSort.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\ProjectBubleSort\ProjectBubleSort\bin\Debug\ProjectBubleSort.pdb
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\ProjectBubleSort\ProjectBubleSort\obj\Debug\ProjectBubleSort.csprojAssemblyReference.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\ProjectBubleSort\ProjectBubleSort\obj\Debug\ProjectBubleSort.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\ProjectBubleSort\ProjectBubleSort\obj\Debug\ProjectBubleSort.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\ProjectBubleSort\ProjectBubleSort\obj\Debug\ProjectBubleSort.pdb

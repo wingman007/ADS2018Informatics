@@ -1,0 +1,11 @@
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp2.1\BinaryToDecimal.deps.json
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp2.1\BinaryToDecimal.runtimeconfig.json
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp2.1\BinaryToDecimal.runtimeconfig.dev.json
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp2.1\BinaryToDecimal.dll
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\bin\Debug\netcoreapp2.1\BinaryToDecimal.pdb
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.csprojAssemblyReference.cache
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.csproj.CoreCompileInputs.cache
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.AssemblyInfoInputs.cache
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.AssemblyInfo.cs
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.dll
+F:\C#(programming basics)\C#Programs\ADS2018Informatics\KirilKolev_1601261004\BinaryToDecimal\BinaryToDecimal\obj\Debug\netcoreapp2.1\BinaryToDecimal.pdb

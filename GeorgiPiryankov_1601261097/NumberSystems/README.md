@@ -1,0 +1,1 @@
+# This is a program for converting numbers from Decimal to Binary. Just enter a number and press 'Enter'.

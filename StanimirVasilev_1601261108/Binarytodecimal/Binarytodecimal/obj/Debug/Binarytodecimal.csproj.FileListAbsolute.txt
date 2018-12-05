@@ -1,0 +1,7 @@
+c:\users\stanimir\source\repos\Binarytodecimal\Binarytodecimal\bin\Debug\Binarytodecimal.exe.config
+c:\users\stanimir\source\repos\Binarytodecimal\Binarytodecimal\bin\Debug\Binarytodecimal.exe
+c:\users\stanimir\source\repos\Binarytodecimal\Binarytodecimal\bin\Debug\Binarytodecimal.pdb
+c:\users\stanimir\source\repos\Binarytodecimal\Binarytodecimal\obj\Debug\Binarytodecimal.csprojAssemblyReference.cache
+c:\users\stanimir\source\repos\Binarytodecimal\Binarytodecimal\obj\Debug\Binarytodecimal.csproj.CoreCompileInputs.cache
+c:\users\stanimir\source\repos\Binarytodecimal\Binarytodecimal\obj\Debug\Binarytodecimal.exe
+c:\users\stanimir\source\repos\Binarytodecimal\Binarytodecimal\obj\Debug\Binarytodecimal.pdb

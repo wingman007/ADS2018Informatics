@@ -1,0 +1,11 @@
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\bin\Debug\netcoreapp2.1\KSmallestElement.deps.json
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\bin\Debug\netcoreapp2.1\KSmallestElement.runtimeconfig.json
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\bin\Debug\netcoreapp2.1\KSmallestElement.runtimeconfig.dev.json
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\bin\Debug\netcoreapp2.1\KSmallestElement.dll
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\bin\Debug\netcoreapp2.1\KSmallestElement.pdb
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\obj\Debug\netcoreapp2.1\KSmallestElement.csprojAssemblyReference.cache
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\obj\Debug\netcoreapp2.1\KSmallestElement.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\obj\Debug\netcoreapp2.1\KSmallestElement.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\obj\Debug\netcoreapp2.1\KSmallestElement.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\obj\Debug\netcoreapp2.1\KSmallestElement.dll
+C:\Users\Windows 7\Desktop\KSmallestElement\KSmallestElement\obj\Debug\netcoreapp2.1\KSmallestElement.pdb

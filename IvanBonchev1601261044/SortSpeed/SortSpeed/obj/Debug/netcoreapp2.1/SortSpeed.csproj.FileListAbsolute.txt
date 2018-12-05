@@ -1,0 +1,11 @@
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\bin\Debug\netcoreapp2.1\SortSpeed.deps.json
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\bin\Debug\netcoreapp2.1\SortSpeed.runtimeconfig.json
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\bin\Debug\netcoreapp2.1\SortSpeed.runtimeconfig.dev.json
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\bin\Debug\netcoreapp2.1\SortSpeed.dll
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\bin\Debug\netcoreapp2.1\SortSpeed.pdb
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\obj\Debug\netcoreapp2.1\SortSpeed.csprojAssemblyReference.cache
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\obj\Debug\netcoreapp2.1\SortSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\obj\Debug\netcoreapp2.1\SortSpeed.AssemblyInfoInputs.cache
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\obj\Debug\netcoreapp2.1\SortSpeed.AssemblyInfo.cs
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\obj\Debug\netcoreapp2.1\SortSpeed.dll
+C:\Users\Vanchyy\source\repos\SortSpeed\SortSpeed\obj\Debug\netcoreapp2.1\SortSpeed.pdb

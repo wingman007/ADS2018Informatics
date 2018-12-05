@@ -1,0 +1,11 @@
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\bin\Debug\netcoreapp2.1\Modified Search.deps.json
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\bin\Debug\netcoreapp2.1\Modified Search.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\bin\Debug\netcoreapp2.1\Modified Search.runtimeconfig.dev.json
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\bin\Debug\netcoreapp2.1\Modified Search.dll
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\bin\Debug\netcoreapp2.1\Modified Search.pdb
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\obj\Debug\netcoreapp2.1\Modified Search.csprojAssemblyReference.cache
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\obj\Debug\netcoreapp2.1\Modified Search.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\obj\Debug\netcoreapp2.1\Modified Search.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\obj\Debug\netcoreapp2.1\Modified Search.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\obj\Debug\netcoreapp2.1\Modified Search.dll
+C:\Users\Windows 7\Desktop\Modified Search\Modified Search\obj\Debug\netcoreapp2.1\Modified Search.pdb

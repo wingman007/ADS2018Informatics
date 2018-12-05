@@ -1,0 +1,11 @@
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\obj\Debug\netcoreapp2.1\Polynoms.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\obj\Debug\netcoreapp2.1\Polynoms.AssemblyInfoInputs.cache
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\obj\Debug\netcoreapp2.1\Polynoms.AssemblyInfo.cs
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\bin\Debug\netcoreapp2.1\Polynoms.deps.json
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\bin\Debug\netcoreapp2.1\Polynoms.runtimeconfig.json
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\bin\Debug\netcoreapp2.1\Polynoms.runtimeconfig.dev.json
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\bin\Debug\netcoreapp2.1\Polynoms.dll
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\bin\Debug\netcoreapp2.1\Polynoms.pdb
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\obj\Debug\netcoreapp2.1\Polynoms.dll
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\obj\Debug\netcoreapp2.1\Polynoms.pdb
+C:\Users\Ivan\ADS2018Informatics\IvanIvanov_1601261013\Polynoms\Polynoms\obj\Debug\netcoreapp2.1\Polynoms.csprojAssemblyReference.cache

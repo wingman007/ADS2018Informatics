@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiusOfReachability", "RadiusOfReachability\RadiusOfReachability.csproj", "{523289FB-17BD-4CB5-B580-6B0F48D7B694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523289FB-17BD-4CB5-B580-6B0F48D7B694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523289FB-17BD-4CB5-B580-6B0F48D7B694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523289FB-17BD-4CB5-B580-6B0F48D7B694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523289FB-17BD-4CB5-B580-6B0F48D7B694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC71FD8-ACEC-4F88-AFDB-90146A5BA9FB}
+	EndGlobalSection
+EndGlobal
