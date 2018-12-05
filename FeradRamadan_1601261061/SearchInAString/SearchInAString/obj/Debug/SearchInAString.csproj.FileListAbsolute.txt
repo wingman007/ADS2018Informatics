@@ -1,0 +1,7 @@
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\SearchInAString\SearchInAString\bin\Debug\SearchInAString.exe.config
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\SearchInAString\SearchInAString\bin\Debug\SearchInAString.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\SearchInAString\SearchInAString\bin\Debug\SearchInAString.pdb
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\SearchInAString\SearchInAString\obj\Debug\SearchInAString.csprojAssemblyReference.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\SearchInAString\SearchInAString\obj\Debug\SearchInAString.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\SearchInAString\SearchInAString\obj\Debug\SearchInAString.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\SearchInAString\SearchInAString\obj\Debug\SearchInAString.pdb

@@ -1,0 +1,7 @@
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\CharSecuenceFinder\CharSecuenceFinder\bin\Debug\CharSecuenceFinder.exe.config
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\CharSecuenceFinder\CharSecuenceFinder\bin\Debug\CharSecuenceFinder.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\CharSecuenceFinder\CharSecuenceFinder\bin\Debug\CharSecuenceFinder.pdb
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\CharSecuenceFinder\CharSecuenceFinder\obj\Debug\CharSecuenceFinder.csprojAssemblyReference.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\CharSecuenceFinder\CharSecuenceFinder\obj\Debug\CharSecuenceFinder.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\CharSecuenceFinder\CharSecuenceFinder\obj\Debug\CharSecuenceFinder.exe
+C:\Users\user.DESKTOP-MC1E5MJ\source\repos\CharSecuenceFinder\CharSecuenceFinder\obj\Debug\CharSecuenceFinder.pdb
