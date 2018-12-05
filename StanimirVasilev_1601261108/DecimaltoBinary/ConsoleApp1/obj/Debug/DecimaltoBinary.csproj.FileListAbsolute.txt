@@ -1,0 +1,7 @@
+c:\users\stanimir\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\stanimir\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\stanimir\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\stanimir\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\DecimaltoBinary.csprojAssemblyReference.cache
+c:\users\stanimir\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\DecimaltoBinary.csproj.CoreCompileInputs.cache
+c:\users\stanimir\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\stanimir\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
