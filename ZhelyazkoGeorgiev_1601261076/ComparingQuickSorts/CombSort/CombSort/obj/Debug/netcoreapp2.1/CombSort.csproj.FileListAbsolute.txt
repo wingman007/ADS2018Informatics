@@ -1,0 +1,11 @@
+D:\MY SHIT\C#\CombSort\CombSort\obj\Debug\netcoreapp2.1\CombSort.csprojAssemblyReference.cache
+D:\MY SHIT\C#\CombSort\CombSort\obj\Debug\netcoreapp2.1\CombSort.csproj.CoreCompileInputs.cache
+D:\MY SHIT\C#\CombSort\CombSort\obj\Debug\netcoreapp2.1\CombSort.AssemblyInfoInputs.cache
+D:\MY SHIT\C#\CombSort\CombSort\obj\Debug\netcoreapp2.1\CombSort.AssemblyInfo.cs
+D:\MY SHIT\C#\CombSort\CombSort\bin\Debug\netcoreapp2.1\CombSort.deps.json
+D:\MY SHIT\C#\CombSort\CombSort\bin\Debug\netcoreapp2.1\CombSort.runtimeconfig.json
+D:\MY SHIT\C#\CombSort\CombSort\bin\Debug\netcoreapp2.1\CombSort.runtimeconfig.dev.json
+D:\MY SHIT\C#\CombSort\CombSort\bin\Debug\netcoreapp2.1\CombSort.dll
+D:\MY SHIT\C#\CombSort\CombSort\bin\Debug\netcoreapp2.1\CombSort.pdb
+D:\MY SHIT\C#\CombSort\CombSort\obj\Debug\netcoreapp2.1\CombSort.dll
+D:\MY SHIT\C#\CombSort\CombSort\obj\Debug\netcoreapp2.1\CombSort.pdb

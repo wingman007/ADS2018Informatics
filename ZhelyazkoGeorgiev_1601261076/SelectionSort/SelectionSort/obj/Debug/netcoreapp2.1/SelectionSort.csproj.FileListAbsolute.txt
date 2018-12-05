@@ -1,0 +1,11 @@
+D:\MY SHIT\C#\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.csprojAssemblyReference.cache
+D:\MY SHIT\C#\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.csproj.CoreCompileInputs.cache
+D:\MY SHIT\C#\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.AssemblyInfoInputs.cache
+D:\MY SHIT\C#\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.AssemblyInfo.cs
+D:\MY SHIT\C#\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.deps.json
+D:\MY SHIT\C#\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.runtimeconfig.json
+D:\MY SHIT\C#\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.runtimeconfig.dev.json
+D:\MY SHIT\C#\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.dll
+D:\MY SHIT\C#\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.pdb
+D:\MY SHIT\C#\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.dll
+D:\MY SHIT\C#\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.pdb
