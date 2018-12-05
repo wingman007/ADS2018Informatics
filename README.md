@@ -1,2 +1,1 @@
-# Ivailo Forshinov 
-## 1701261110
+ADS2018Informatics
