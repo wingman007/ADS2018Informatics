@@ -1,0 +1,10 @@
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\bin\Debug\netcoreapp2.1\elemetsOfArray.deps.json
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\bin\Debug\netcoreapp2.1\elemetsOfArray.runtimeconfig.json
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\bin\Debug\netcoreapp2.1\elemetsOfArray.runtimeconfig.dev.json
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\bin\Debug\netcoreapp2.1\elemetsOfArray.dll
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\bin\Debug\netcoreapp2.1\elemetsOfArray.pdb
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\obj\Debug\netcoreapp2.1\elemetsOfArray.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\obj\Debug\netcoreapp2.1\elemetsOfArray.AssemblyInfoInputs.cache
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\obj\Debug\netcoreapp2.1\elemetsOfArray.AssemblyInfo.cs
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\obj\Debug\netcoreapp2.1\elemetsOfArray.dll
+C:\Users\vasil\source\repos\elemetsOfArray\elemetsOfArray\obj\Debug\netcoreapp2.1\elemetsOfArray.pdb

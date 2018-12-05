@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vasil\source\repos\huffmancoding\huffmancoding\source.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\vasil\source\repos\huffmancoding\huffmancoding\source.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  huffmanCoding.vcxproj -> C:\Users\vasil\source\repos\huffmanCoding\Debug\huffmanCoding.exe
