@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  PostalWorker.cpp
+c:\users\fmi\neli\ads2018informatics\nedelkakaramfilova_1601261058\postalworker-5.88\postalworker\postalworker.cpp(47): warning C4715: 'dijkstra': not all control paths return a value
+  PostalWorker.vcxproj -> C:\Users\fmi\neli\ADS2018Informatics\NedelkaKaramfilova_1601261058\PostalWorker-5.88\Debug\PostalWorker.exe

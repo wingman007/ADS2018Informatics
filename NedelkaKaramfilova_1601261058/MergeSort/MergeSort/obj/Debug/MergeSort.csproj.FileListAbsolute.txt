@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\Georgi\Desktop\C#\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Georgi\Desktop\C#\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Georgi\Desktop\C#\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Georgi\Desktop\C#\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

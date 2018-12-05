@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\ProjectBubbleSort\ProjectBubbleSort\bin\Debug\ProjectBubbleSort.exe.config
+C:\Users\Georgi\Desktop\C#\ProjectBubbleSort\ProjectBubbleSort\bin\Debug\ProjectBubbleSort.exe
+C:\Users\Georgi\Desktop\C#\ProjectBubbleSort\ProjectBubbleSort\bin\Debug\ProjectBubbleSort.pdb
+C:\Users\Georgi\Desktop\C#\ProjectBubbleSort\ProjectBubbleSort\obj\Debug\ProjectBubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\ProjectBubbleSort\ProjectBubbleSort\obj\Debug\ProjectBubbleSort.exe
+C:\Users\Georgi\Desktop\C#\ProjectBubbleSort\ProjectBubbleSort\obj\Debug\ProjectBubbleSort.pdb

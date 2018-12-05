@@ -1,0 +1,11 @@
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\bin\Debug\netcoreapp2.0\CombinedQuickSort.deps.json
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\bin\Debug\netcoreapp2.0\CombinedQuickSort.runtimeconfig.json
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\bin\Debug\netcoreapp2.0\CombinedQuickSort.runtimeconfig.dev.json
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\bin\Debug\netcoreapp2.0\CombinedQuickSort.dll
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\bin\Debug\netcoreapp2.0\CombinedQuickSort.pdb
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\obj\Debug\netcoreapp2.0\CombinedQuickSort.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\obj\Debug\netcoreapp2.0\CombinedQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\obj\Debug\netcoreapp2.0\CombinedQuickSort.AssemblyInfoInputs.cache
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\obj\Debug\netcoreapp2.0\CombinedQuickSort.AssemblyInfo.cs
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\obj\Debug\netcoreapp2.0\CombinedQuickSort.dll
+C:\Users\fmi\Desktop\CombinedQuickSort\CombinedQuickSort\CombinedQuickSort\obj\Debug\netcoreapp2.0\CombinedQuickSort.pdb

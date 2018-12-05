@@ -1,0 +1,10 @@
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.0\RecursionDemo.deps.json
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.0\RecursionDemo.runtimeconfig.json
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.0\RecursionDemo.runtimeconfig.dev.json
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.0\RecursionDemo.dll
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\bin\Debug\netcoreapp2.0\RecursionDemo.pdb
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.0\RecursionDemo.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.0\RecursionDemo.AssemblyInfoInputs.cache
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.0\RecursionDemo.AssemblyInfo.cs
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.0\RecursionDemo.dll
+C:\Users\fmi\Desktop\RecursioDemo\RecursionDemo\RecursionDemo\obj\Debug\netcoreapp2.0\RecursionDemo.pdb
