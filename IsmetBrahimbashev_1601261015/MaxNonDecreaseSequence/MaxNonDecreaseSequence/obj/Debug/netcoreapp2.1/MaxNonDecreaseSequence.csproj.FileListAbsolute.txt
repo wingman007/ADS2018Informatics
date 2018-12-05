@@ -1,0 +1,11 @@
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\bin\Debug\netcoreapp2.1\MaxNonDecreaseSequence.deps.json
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\bin\Debug\netcoreapp2.1\MaxNonDecreaseSequence.runtimeconfig.json
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\bin\Debug\netcoreapp2.1\MaxNonDecreaseSequence.runtimeconfig.dev.json
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\bin\Debug\netcoreapp2.1\MaxNonDecreaseSequence.dll
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\bin\Debug\netcoreapp2.1\MaxNonDecreaseSequence.pdb
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\obj\Debug\netcoreapp2.1\MaxNonDecreaseSequence.csprojAssemblyReference.cache
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\obj\Debug\netcoreapp2.1\MaxNonDecreaseSequence.csproj.CoreCompileInputs.cache
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\obj\Debug\netcoreapp2.1\MaxNonDecreaseSequence.AssemblyInfoInputs.cache
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\obj\Debug\netcoreapp2.1\MaxNonDecreaseSequence.AssemblyInfo.cs
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\obj\Debug\netcoreapp2.1\MaxNonDecreaseSequence.dll
+C:\Users\StYlEr\source\repos\MaxNonDecreaseSequence\MaxNonDecreaseSequence\obj\Debug\netcoreapp2.1\MaxNonDecreaseSequence.pdb
